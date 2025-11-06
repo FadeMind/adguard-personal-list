@@ -1,0 +1,237 @@
+﻿! Title: AdGuard Personal Annoyances
+! Version: 20251106v1
+! Expires: 1 day
+! Description: Blocking annoyances on various sites
+! Homepage: https://github.com/FadeMind/adguard-personal-list
+androidheadlines.com###post-1229123 > footer.entry-footer:nth-child(5) > div.row.justify-content-center > div.col-md-9.px-2 > div.row.d-none.d-md-flex.justify-content-center:nth-child(4)
+androidheadlines.com###right-sidebar
+androidheadlines.com##.newsletter-modal-button
+antistorm.eu###main > a > div
+antistorm.eu###map-area > div > a > img
+babesource.com##.main-content__asd
+bankier.pl###deposit-calculator > h2
+bankier.pl###hotnews-bar
+bankier.pl###onNetworkContainer
+bankier.pl###video-box
+bankier.pl##.placeholder-results
+businessinsider.com.pl###specprawnik-widget
+businessinsider.com.pl##.follow-us
+ckm.pl###desktop-video-exchngr-slot
+crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
+dappcdn.com##.ad-alt__w
+dappcdn.com##aside.sm.sn--sad
+doladowania.t-mobile.pl##.banners-slider
+downdetector.pl###apps-card
+downdetector.pl###comments-card
+downdetector.pl###tweets-card
+doz.pl###js-swiper-teaser
+doz.pl###productOfTheDayBanner
+doz.pl##.salvitis2025-promobar__bar
+doz.pl##div[class*="kodabots"]
+ekino-tv.pl##.commentsBlock
+ekino-tv.pl##.movieActors
+ekino-tv.pl##a[href="/movie/add"]
+ekino-tv.pl##a[href="/premium/"]
+ekino-tv.pl##li:has(a[href="#premium"])
+ewarszawa.pl##.bannerBox
+ewarszawa.pl##.mainBoxes__box
+ewarszawa.pl##.newsletter
+fakt.pl##.article-contact
+fakt.pl##.follow-us
+fakt.pl##.padded-partner-section
+fapello-forum.com##.uix_welcomeSection__inner
+filman.cc###comments
+filman.cc###input-comment
+filman.cc##.alert
+filman.cc##center > a[href*="cancerfighters"]
+filmpolski.pl##.wazny_banner
+fxmag.pl##[class^="GoogleNews"]
+fxmag.pl##[class^="Reactions_container"]
+gazeta.pl##.art_embed
+gazeta.pl##.player-now
+guru3d.com##.alert-warning
+hejto.pl##.suppi
+hejto.pl##.text-sm.justify-center.items-center
+hejto.pl##.userbar
+interia.pl###gazetki
+interia.pl###gryonline
+interia.pl##.ids-video-player
+interia.pl##.oferty
+interia.pl##.section-rekom
+ithardware.pl##.btnScrollToComments
+ithardware.pl##.content-array__media-expert
+ithardware.pl##.deposit-footer
+javgg.net###headerlink
+javgg.net###post-999999
+javgg.net##.home_iframead
+klubjagiellonski.pl##.wp-image-76611
+krs-pobierz.pl##.banner-sprawdzaj
+ktomalek.pl##.mp-products
+kwestiasmaku.com###block-application-ks-related-content
+kwestiasmaku.com##.pas_dolny
+leakedmodels.com##.js-notice
+leakedmodels.com##.promoz
+linuxcompatible.org##.cdb-upper
+linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
+lookmovie2.to##.chat-link
+lookmovie2.to##.sm\:tw-py-6
+mrugalski.pl###newsletter-bar
+myradioonline.pl##.clippy
+myradioonline.pl##.clippy-balloon
+myradioonline.pl##.clippy-content
+myradioonline.pl##.fb-shrbtn
+myradioonline.pl##.js-bell-noti
+myradioonline.pl##.js-fbSend
+myradioonline.pl##.popup_layer
+naszemiasto.pl##.componentsPromotionsVideo__videoWrapper
+natemat.pl###article-body > div.art > div > div.c-fsuvhh
+natemat.pl###article-body > div.art > div > div.c-gFRWOk
+natemat.pl###article-body > div.art > div > div.c-gHsnJz
+natemat.pl##.c-HKIId
+natemat.pl##.c-hcNlLz
+natemat.pl##.c-hybVhV
+neowin.net##.code-widget
+newsweek.pl##.pw-autopromo-slot
+next.gazeta.pl##.conclusion__wrapper
+nlad.pl##.bottom-share
+nlad.pl##.donate-koniec-artykulu
+nlad.pl##.hero-patronite
+nlad.pl##.recent-post
+ntcompatible.com##.cdb-upper
+nudostar.com##.nudostar
+nudostar.tv##.nav2_a
+nudostar.tv##.zkido_div
+o-lekach.pl##.rekl
+oko.press###banner-after-text
+oko.press##div.aspect-mobile-banner.md\:aspect-banner.relative 
+oko.press##div.column.print\:hidden
+onlineradiobox.com##.playmarket
+onlineradiobox.com##.saveUA
+onlineradiobox.com##[role="alertdialog"]
+onlineradiobox.com##section.review
+onlineradiobox.com##section.station-news
+onlineradiobox.com##ul.projects-links
+pandamovies.org,speedporn.net##.adbn-wrap
+pandamovies.org,speedporn.net##.nonadbn-wrap
+pb.pl##.tp-container-inner
+perplexity.ai##.h-bannerHeight
+picazor.com##[style="height:110px;min-height:110px;contain:layout paint size"]
+picazor.com##[style="height:120px;min-height:120px;contain:layout paint size"]
+pictoa.com###menu-10
+pictoa.com###menu-2
+pictoa.com###tab-footer
+pilot.wp.pl##.sc-14k8s4q-0, .jPmvZC
+pilot.wp.pl##.sc-y6ok5c-0, .fJAhSn, .sc-1olsnwh-1, .dfBkMT
+pixelnerd.pl###article-reactions-section
+pixelnerd.pl##.extra-link
+polsatnews.pl##.nav__items
+polskieradio24.pl##div[class^="Article_sharingBottom"]
+polskieradio24.pl##div[class^="Footer_footerTop"]
+pornicom.com##.spot-under
+pornoxo.com##.combined-banner, .cb-show
+pornoxo.com##.fh-line, .fh-margin
+pornoxo.com##.wgt-container
+portalsamorzadowy.pl##.google-box
+portalsamorzadowy.pl##.partners
+portalwrc.pl###mod-custom172
+portalwrc.pl###mod-custom227
+poznajwagrowiec.eu###block-42
+poznajwagrowiec.eu###custom_html-9
+poznajwagrowiec.eu###media_image-16
+poznajwagrowiec.eu###media_image-4
+poznajwagrowiec.eu###page > footer.site-footer.bg-default.bg-footer-lite.spnc-footer-ribbon-1:nth-child(9) > div.spnc-container:nth-child(2)
+poznajwagrowiec.eu##.left-sidebar
+poznajwagrowiec.eu##.repeat-advertisement
+poznajwagrowiec.eu##div.spice_share_wrapper
+pxxbay.com##.custom-html-widget
+reddit.com##shreddit-async-loader[bundlename="feed_announcement"]
+rmf24.pl###specialVideoCont
+roshy.tv###main-content > div.beeteam368-related-posts:last-child > div:nth-child(2)
+roshy.tv###main-content > div.classic-pos-video-player.is-single-post-main-player:first-child > div:nth-child(2)
+roshy.tv##.shortcode_widget
+rynek-kolejowy.pl##.najnowszyNumerRK
+rynek-kolejowy.pl##.partnerNaglowka
+rynek-kolejowy.pl##.partnership
+rynekzdrowia.pl##.e3
+rynekzdrowia.pl##.google-box
+santander.pl##.advertisingBar
+santander.pl##.finalCta
+santander.pl##.uokik-info
+scrolller.com###root > div.app--desktop > div.popup
+senzuri.tube###app > a.top-bar
+sextb.net##div.container:nth-child(2) > section.tray.all:nth-child(17)
+skidrowreloaded.com###custom_content-widget-1
+skidrowreloaded.com###text-3
+sprawdz.dhl.com.pl##.banner
+sprawdz.dhl.com.pl##.secondBanner
+station-drivers.com###mod-custom429 > p > a:first-child > img
+station-drivers.com###mod-custom497
+station-drivers.com###mod-custom605
+station-drivers.com###popup
+station-drivers.com##.remository_votes_guide
+station-drivers.com##a[href*="paypal"]
+superuser.com##.s-popover
+termedia.pl##.adPartner
+thefap.net##.wbar
+thefappeningblog.com##.notices
+theyarehuge.com##.headline
+theyarehuge.com##.main-cams
+theyarehuge.com##.tah-desktop-spot
+theyarehuge.com##.upd-source
+theyarehuge.com##a[href*="live-sex"]
+theyarehuge.com##a[href*="tiktok-porn"]
+tokfm.pl##.main-footer__text
+tomshardware.com###affiliate-disclaimer
+tomshardware.com###article-body > p:nth-child(11)
+tomshardware.com###hammerbot
+tracktrace.dpd.com.pl###banner-central-footer-image
+tvp.info##.module-apology__content
+tvp.info##.module-banner-ad__content
+tweaktown.com##.gnf
+uflix.cc###bebfaddededbcfea
+wiadomosci.onet.pl##.followUs
+windowscentral.com##a[href=*"google.com/preferences/source"]
+wnp.pl##.header-partners
+x-downloader.com##.banner
+xfeed.com##.prm-content-wrapper
+xhamster.com##.Al-AcUsp-l-tab
+xhamster.com##.Jumll-Imsp-l-tab
+xhamster.com##.container-f57ba
+xhamster.com##.pnpTT-DBEsp-l-tab
+xhamster.com##.qi-iNno-ts-init
+xhamster.com##.secondary-8643e
+xhamster.com##:last-child[data-role="bottom-popup-ads"]
+xhamster.com##[class*="EYCMC"]
+xhamster.com##[data-item="ai-friend"]
+xhamster.com##[data-item="dating"]
+xhamster.com##[data-item="premium"]
+xhamster.com##[data-nav-item-id="cams"]
+xhamster.com##[data-statistic-name="Flirtify"]
+xhamster.com##a[class*="color-yellow"]
+xhamster.com##a[href*="/ff/out"]
+xhamster.com##a[href*="faphouse"]
+xhamster.com##a[href*="lovescape.com"]
+xhamster.com##a[href*="lustyheroes.com"]
+xhamster.com##a[href*="xhamster.com/cam"]
+xhamster.com##a[href*="xhamsterchat.ai"]
+xhamster.com##a[href*="xhamsterlive.com"]
+xhamster.com##div.OBS-bxJ
+xhamster.com##div.trigger.on-hover
+xhamster.com##div[class*="clipstore"]
+xhamster.com##div[class*="premium"]
+xhamster.com##div[class*="rectangle"]
+xhamster.com##div[data-item="lusty-heroes"]
+xhamster.com##div[data-nav-item-id="priority-vpn"]
+xhamster.com##div[data-role*="promo"]
+xhamster.com##div[data-role="bottom-popup-ads"]
+xhamster.com##span.with-dot
+xxbrits.com##.awebl_webcams
+xxbrits.com##.click-fun
+xxbrits.com##.premium
+xxbrits.com##.telegram
+xxbrits.com##div.wrapper:first-child > div.main:nth-child(5) > section.section:last-child > div.container > div.description-box
+zadarmo.xyz##div.container:first-child > div.logoo:first-child > a:last-child > img.responsivee.pe-4.pt-4
+zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(5)
+zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(9)
+zaluknij.cc##.alert
+zus.pl##.commercial-medium

@@ -1,0 +1,192 @@
+! Title: AlleBlock Revised
+! Version: 20251106v1
+! Expires: 1 day
+! Description: Blocking annoyances on e-commerce sites
+! Homepage: https://github.com/FadeMind/adguard-personal-list
+! Based on: https://github.com/CrusheerPL/AlleBlock
+! ****************************** ALLEGRO.PL ******************************
+! Strona glowna + belka
+! 'HP Redesign' update - filtry pod starszy layout beda dostepne jeszcze przez jakis czas
+allegro.pl##div[data-box-name="HP Redesign Content"]
+allegro.pl##div[data-prototype-id="allegro.expandableAdvertisement"]
+allegro.pl##div[data-role="showcase-container"]
+allegro.pl##div[data-role="image-tiles-container"]
+allegro.pl##div[data-role="offer-container"]
+allegro.pl##div[data-box-name="structure-tabs"]
+allegro.pl##div[data-box-name="structure-links"]
+allegro.pl##div[data-box-name="metrum-footer-partial-expander"]
+allegro.pl##div[data-box-name="f-social"]
+allegro.pl##div[data-box-name="DFP Parallax"]
+allegro.pl##div[data-box-name="allegro.login.smart.status"]
+allegro.pl##div[data-box-name="unauthenticated.image"]
+allegro.pl##div[data-box-name="allegro.richText"]
+allegro.pl##div[data-role="user-container"]
+allegro.pl##div[data-box-name="allegro.smart.status"]
+allegro.pl##div[data-box-name="promoted.links.grid.container"]
+allegro.pl##div[data-box-name="container"]
+allegro.pl##div[data-box-name="Belka-desktop"]
+allegro.pl##div[data-box-name="lazy content"]
+allegro.pl##div[data-box-name="allegro.showcase.premium.main.container"]
+allegro.pl##div[data-box-name="allegro.richText.image"]
+allegro.pl##div[data-box-name="allegro.modal Sns"]
+allegro.pl##div[data-box-name="IGNORE.allegro.attentioner.modal"]
+allegro.pl##div[data-box-name="Single Image Variant Container"]
+allegro.pl##div[data-box-name="mainPage.wrapper"]
+allegro.pl##div[data-box-name="allegro.navigation.layers.brands.container"]
+allegro.pl##div[data-box-name="ads.dss.listing.bottom.container"]
+allegro.pl##div[data-analytics-view-label="mySmartManagerTopBanner"]
+allegro.pl##div#kampyleFormContainer
+! Strona logowania
+allegro.pl##div[data-box-name="allegro.login.form"] > div > div > div:nth-of-type(2)
+! Interfejs mobilny
+allegro.pl##div[data-box-name="allegro.bar.mobileApp"]
+allegro.pl##div[data-box-name="allegro.showcase.main.mobile container"]
+allegro.pl##div[data-box-name^="MobileAppBanner"]
+allegro.pl##div[data-box-name="showcase mobile container"]
+allegro.pl##div[data-box-name="popularne miasta mob"]
+allegro.pl##div[data-box-name="kontenerek_z_warunkiem"]
+allegro.pl##div[data-box-name="attentioner_navigate__RWD"]
+allegro.pl##div[data-box-name="RENDER_FIRST_OCCURANCE"]
+! Menu str. glowna ogolne
+allegro.pl##div[data-box-name$="desktop-dfp-wrapper"]
+allegro.pl##div[data-box-name$="desktop-nav-links"]
+! Koszyk
+allegro.pl##div[data-box-name="image.desktop"]
+allegro.pl##div[data-box-name="image.mobile"]
+! Lista ofert + wyniki wyszukiwania
+allegro.pl##div[data-box-name="premium.with.dfp"]
+allegro.pl##div[data-box-name="leftpanel_ads"]
+allegro.pl##article[data-analytics-view-label="showSponsoredItems"]
+allegro.pl##div[data-box-name="articles"]
+allegro.pl##div[data-box-name="rekomendacje"]
+allegro.pl##div[data-box-name="kategorie komplementarne kontener"]
+allegro.pl##div[data-box-name="seo text container"]
+allegro.pl##div[data-box-name="popularne miasta pc"]
+allegro.pl##div[data-box-name="survey-container"]
+allegro.pl##div[data-box-name="podobne wyszukiwania kontener"]
+allegro.pl##article[data-role="offer"] > section
+allegro.pl##div[data-box-name="premium.with.dfp.bottom"]
+allegro.pl##article[data-analytics-view-custom-context="SPONSORED"]
+allegro.pl##div[data-box-name="ESR_recommendation.container"]
+! "Najwyzej oceniane"
+allegro.pl##div[data-box-name="allegro.analyticsPlaceholder.topRatedV2"]
+allegro.pl##div[data-box-name="layout.container.topRated"]
+! ukrywa oferty wylacznie dla kont firmowych
+allegro.pl##article:has(span:has-text(dla biznesu))
+! wykreslankom mowimy won
+allegro.pl##._000b0_OXLb7
+! kolejny odsiew "sponsorowanych" miedzy "zwyklymi" ofertami w liscie
+allegro.pl##article:has(span:has-text(Sponsorowane))
+! toporny sposob na wywalenie kolejnej iteracji "zaplac pozniej" czy jak to oni tam nazwali
+allegro.pl##div.opbox-listing > div > section > section
+! Strona oferty
+allegro.pl##div[data-box-name="Carousel card"]
+allegro.pl##div[data-box-name="Container Advertisment Premium"]
+allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom"]
+allegro.pl##div[data-box-name="offers_reco_bottom_marker"]
+allegro.pl##div[data-box-name="Container carousel_last_viewed"]
+allegro.pl##div[data-box-name="Container carousel_reco_show_item_bottom-placeholder"]
+allegro.pl##div[data-box-name="layout.advertisement"]
+allegro.pl##div[data-box-name="container.moreOf"]
+! Strona oferty - zakonczona
+allegro.pl##div[data-box-name="Container carousel reco ended"]
+allegro.pl##div[data-box-name="lazy_standalone_carousel_ads"]
+allegro.pl##div[data-box-name="Container carousel_reco_ended"]
+allegro.pl##div[data-box-name="finished_lazy_standalone_carousel_ads"]
+! Moje Allegro
+allegro.pl##div[data-box-name="deals"]
+allegro.pl##div[data-box-name="mobileAppBanner Container"]
+! Dziekujemy za zakupy
+allegro.pl##div[data-box-name="promo-services-container"]
+allegro.pl##div[data-box-name="reco-grid"]
+allegro.pl##div[data-box-name="ad-wrapper"]
+allegro.pl##div[data-box-name="booster-family-container"]
+allegro.pl##div[data-box-name="reco-grid v2"]
+! Skrypty/Trackery/Zasoby
+||assets.allegrostatic.com/opbox-gdpr-consents/*$domain=allegro.pl
+||analytics.google.com/*$domain=allegro.pl
+||doubleclick.net/*$domain=allegro.pl
+||gemius.pl/*$domain=allegro.pl
+||googletagmanager.com/*$domain=allegro.pl
+||googletagservices.com/*$domain=allegro.pl
+||kampyle.com/*$domain=allegro.pl
+||ngastatic.com/s4c/tracker.js$domain=allegro.pl
+||smartadserver.com/*$domain=allegro.pl
+||adform.net/*$domain=allegro.pl
+||datadome.co/*$domain=allegro.pl
+||flashtalking.com/*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/appstore*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/playstore*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/appgallery*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/facebook*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/linkedin*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/instagram*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/pinterest*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/youtube*$domain=allegro.pl
+||assets.allegrostatic.com/metrum/icon/charity*$domain=allegro.pl
+||assets.allegrostatic.com/opbox-adspremium/*$domain=allegro.pl
+||assets.allegrostatic.com/opbox-listing-seo/*$domain=allegro.pl
+||assets.allegrostatic.com/e09d28a6-external/*$domain=allegro.pl
+||assets.allegrostatic.com/opbox-plugin-facebook-tracking/*$domain=allegro.pl
+||assets.allegrostatic.com/gemius/*$domain=allegro.pl
+||assets.allegrostatic.com/opbox-adblock-detector/*$domain=allegro.pl
+||assets.allegrostatic.com/opbox-advertisement-box/*$script,domain=allegro.pl
+! Pozostale elementy
+allegro.pl##div[data-box-name*="adblockDetector"]
+! ****************************** ARCHIWUM.ALLEGRO.PL ******************************
+! Strona glowna
+archiwum.allegro.pl##div[data-box-name="naAllegro"]
+! Elementy zbedne i nie majace nic wspolnego z archiwum (bannery, aktualne oferty, sponsorowane, top na Allegro etc.)
+archiwum.allegro.pl##div[data-box-name="lazy"]
+archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.popular.container"]
+archiwum.allegro.pl##div[data-box-name*="allegro.listing.left.recentlyArchived.container"]
+archiwum.allegro.pl##div[data-box-name="banner.bottom.okazja"]
+archiwum.allegro.pl##div[data-box-name="similar.searches.container"]
+archiwum.allegro.pl##div[data-box-name="bottom-ads-container"]
+archiwum.allegro.pl##div[data-box-name="banner-bottom-mobile-allegro-polecam"]
+archiwum.allegro.pl##div[data-box-name="banner-top-desktop-allegro-pay-business"]
+archiwum.allegro.pl##div[data-box-name="allegro.listing.righAboveItems.container"]
+archiwum.allegro.pl##div[data-box-name="allegro.advertising.adspremium"]
+! Rekomendacje
+archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.top"]
+archiwum.allegro.pl##div[data-box-name="layout.container.recommendations.bottom"]
+! Smart Week
+archiwum.allegro.pl##div[data-box-name="modalSmartWeek"]
+archiwum.allegro.pl##div[data-box-name="smart-week-modal"]
+archiwum.allegro.pl##div[data-box-name="banner-top-desktop-smart-week"]
+! ****************************** ALLEGROLOKALNIE.PL ******************************
+! Ogolne
+allegrolokalnie.pl##.footer-banner
+allegrolokalnie.pl##.mlc-top-header
+! Strona glowna
+allegrolokalnie.pl##.mlc-home-page__greeting
+allegrolokalnie.pl##.mlc-home-page__hero-carousel
+allegrolokalnie.pl##.mlc-home-page__goals
+allegrolokalnie.pl##.mlc-home-page__service-info
+allegrolokalnie.pl##.mlc-home-page-carousels
+allegrolokalnie.pl##.mlc-home-page__benefits
+! Strona oferty
+allegrolokalnie.pl##.mlc-offer__smart-offers
+allegrolokalnie.pl##.mlc-offer__sp-offers
+allegrolokalnie.pl##.mlc-offer__similar-offers
+! ****************************** CENEO.PL ******************************
+! Ogolne
+ceneo.pl##.home-main__showcases
+ceneo.pl##.home-pop-prod
+ceneo.pl##.home-popular-brands
+ceneo.pl##.recommended-products
+ceneo.pl##.lnd_wrapper
+! Wersja mobilna
+ceneo.pl##.showcase
+ceneo.pl##.js_recommendations-container, .js_analytics-promotedItems
+ceneo.pl##.manufacturers-logo-container
+ceneo.pl##.manufacturers-container
+ceneo.pl##.js_promoted-items-container
+ceneo.pl##.cat-manufacturer-logotypes
+! ****************************** APTEKAOLMED.PL ******************************
+aptekaolmed.pl###productOfTheDay
+aptekaolmed.pl###refund-diapers-btn
+aptekaolmed.pl##.box-addit-top
+aptekaolmed.pl##.promo-product-cart
+aptekaolmed.pl##.promotion
+aptekaolmed.pl##.swiper-disabled
