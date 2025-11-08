@@ -1,5 +1,5 @@
 ﻿! Title: AdGuard Personal Annoyances
-! Version: 20251106v1
+! Version: 20251108v1
 ! Expires: 1 day
 ! Description: Blocking annoyances on various sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
@@ -14,6 +14,7 @@ bankier.pl###hotnews-bar
 bankier.pl###onNetworkContainer
 bankier.pl###video-box
 bankier.pl##.placeholder-results
+bithub.pl###sticky-banner
 businessinsider.com.pl###specprawnik-widget
 businessinsider.com.pl##.follow-us
 ckm.pl###desktop-video-exchngr-slot
@@ -189,6 +190,8 @@ tvp.info##.module-apology__content
 tvp.info##.module-banner-ad__content
 tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
+watchporn4k.com##.happy-section
+watchporn4k.com##.video-block-happy
 wiadomosci.onet.pl##.followUs
 windowscentral.com##a[href=*"google.com/preferences/source"]
 wnp.pl##.header-partners
