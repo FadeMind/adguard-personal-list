@@ -1,5 +1,5 @@
 ﻿! Title: AdGuard Personal Annoyances
-! Version: 20251108v1
+! Version: 20251109v1
 ! Expires: 1 day
 ! Description: Blocking annoyances on various sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
@@ -125,6 +125,7 @@ pilot.wp.pl##.sc-14k8s4q-0, .jPmvZC
 pilot.wp.pl##.sc-y6ok5c-0, .fJAhSn, .sc-1olsnwh-1, .dfBkMT
 pixelnerd.pl###article-reactions-section
 pixelnerd.pl##.extra-link
+pogoda.interia.pl##.weather-currently-middle-AdAppBox
 polsatnews.pl##.nav__items
 polskieradio24.pl##div[class^="Article_sharingBottom"]
 polskieradio24.pl##div[class^="Footer_footerTop"]
