@@ -1,9 +1,9 @@
 ! Title: AlleBlock Revised
-! Version: 20251108v1
+! Version: 20251110v1
 ! Expires: 1 day
 ! Description: Blocking annoyances on e-commerce sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
-! Based on: https://github.com/CrusheerPL/AlleBlock
+! Based on: https://github.com/CrusheerPL/AlleBlock0
 ! ****************************** ALLEGRO.PL ******************************
 ! Strona glowna + belka
 ! 'HP Redesign' update - filtry pod starszy layout beda dostepne jeszcze przez jakis czas
@@ -191,3 +191,8 @@ aptekaolmed.pl##.box-addit-top
 aptekaolmed.pl##.promo-product-cart
 aptekaolmed.pl##.promotion
 aptekaolmed.pl##.swiper-disabled
+! ****************************** MOJOSOFT.COM.PL ******************************
+/js/asystent.js$domain=mojosoft.com.pl
+||ssl.ceneo.pl$domain=mojosoft.com.pl
+||pixel.wp.pl$domain=mojosoft.com.pl
+||bat.bing.com$domain=mojosoft.com.pl
