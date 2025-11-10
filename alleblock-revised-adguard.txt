@@ -3,7 +3,7 @@
 ! Expires: 1 day
 ! Description: Blocking annoyances on e-commerce sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
-! Based on: https://github.com/CrusheerPL/AlleBlock0
+! Based on: https://github.com/CrusheerPL/AlleBlock
 ! ****************************** ALLEGRO.PL ******************************
 ! Strona glowna + belka
 ! 'HP Redesign' update - filtry pod starszy layout beda dostepne jeszcze przez jakis czas
