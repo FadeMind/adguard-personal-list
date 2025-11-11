@@ -1,5 +1,5 @@
-﻿! Title: AdGuard Personal Annoyances
-! Version: 20251109v1
+! Title: AdGuard Personal Annoyances
+! Version: 20251111v1
 ! Expires: 1 day
 ! Description: Blocking annoyances on various sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
@@ -65,6 +65,8 @@ ithardware.pl##.deposit-footer
 javgg.net###headerlink
 javgg.net###post-999999
 javgg.net##.home_iframead
+javhdporn.net##a[href*="javhdporn.live"]
+javhdporn.net##a[rel*="sponsored"]
 klubjagiellonski.pl##.wp-image-76611
 krs-pobierz.pl##.banner-sprawdzaj
 ktomalek.pl##.mp-products
