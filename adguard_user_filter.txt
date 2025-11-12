@@ -1,8 +1,4 @@
-! Title: AdGuard Personal Annoyances
-! Version: 20251111v1
-! Expires: 1 day
-! Description: Blocking annoyances on various sites
-! Homepage: https://github.com/FadeMind/adguard-personal-list
+android.com.pl##a[href*="track.performers.tech"]
 androidheadlines.com###post-1229123 > footer.entry-footer:nth-child(5) > div.row.justify-content-center > div.col-md-9.px-2 > div.row.d-none.d-md-flex.justify-content-center:nth-child(4)
 androidheadlines.com###right-sidebar
 androidheadlines.com##.newsletter-modal-button
@@ -123,7 +119,7 @@ picazor.com##[style="height:120px;min-height:120px;contain:layout paint size"]
 pictoa.com###menu-10
 pictoa.com###menu-2
 pictoa.com###tab-footer
-pilot.wp.pl##.sc-14k8s4q-0, .jPmvZC
+pilot.wp.pl##.sc-3qcaur-0, .hfYsRv
 pilot.wp.pl##.sc-y6ok5c-0, .fJAhSn, .sc-1olsnwh-1, .dfBkMT
 pixelnerd.pl###article-reactions-section
 pixelnerd.pl##.extra-link
@@ -185,6 +181,7 @@ theyarehuge.com##.upd-source
 theyarehuge.com##a[href*="live-sex"]
 theyarehuge.com##a[href*="tiktok-porn"]
 tokfm.pl##.main-footer__text
+tokfm.pl##.special_action__wrapper
 tomshardware.com###affiliate-disclaimer
 tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot

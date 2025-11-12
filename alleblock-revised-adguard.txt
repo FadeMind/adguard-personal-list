@@ -196,3 +196,9 @@ aptekaolmed.pl##.swiper-disabled
 ||ssl.ceneo.pl$domain=mojosoft.com.pl
 ||pixel.wp.pl$domain=mojosoft.com.pl
 ||bat.bing.com$domain=mojosoft.com.pl
+! ****************************** MEDIAEXPERT.PL ******************************
+mediaexpert.pl##.footer-app-banner
+mediaexpert.pl##.promobar
+mediaexpert.pl##.right_float_element
+mediaexpert.pl##.wrapper-parallax
+mediaexpert.pl##div[id*="newsletter"]
