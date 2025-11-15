@@ -1,5 +1,5 @@
 ! Title: AlleBlock Revised
-! Version: 20251110v1
+! Version: 20251115v1
 ! Expires: 1 day
 ! Description: Blocking annoyances on e-commerce sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
@@ -36,6 +36,8 @@ allegro.pl##div[data-box-name="allegro.navigation.layers.brands.container"]
 allegro.pl##div[data-box-name="ads.dss.listing.bottom.container"]
 allegro.pl##div[data-analytics-view-label="mySmartManagerTopBanner"]
 allegro.pl##div#kampyleFormContainer
+! Top banner header
+allegro.pl##div[data-role="showcase"] 
 ! Strona logowania
 allegro.pl##div[data-box-name="allegro.login.form"] > div > div > div:nth-of-type(2)
 ! Interfejs mobilny
