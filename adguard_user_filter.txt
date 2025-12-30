@@ -17,6 +17,8 @@ ckm.pl###desktop-video-exchngr-slot
 crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
 dappcdn.com##.ad-alt__w
 dappcdn.com##aside.sm.sn--sad
+deepl.com##div.flex:nth-child(9) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\]:last-child > div.relative.pe-0:nth-child(4) > div.relative.bg-white.Page_scalableTranslator__rzGIl:last-child > div.\[\.is-home_\&\]\:hidden:nth-child(2) > div.homeExperience_homeExperience__ixC9_:last-child > section.bg-white.mb-0.overflow-hidden.homeExperience_logoCloud___WQ__:first-child
+deepl.com##div.flex:nth-child(9) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\]:last-child > section.md\:px-redesign-6.md\:pb-redesign-7.md\:pt-redesign-8.gap-redesign-8.lg\:gap-redesign-4.dark.mx-auto.mb-0.flex.w-full.max-w-\[1400px\].flex-col.items-center.px-6.py-4.text-center:nth-child(3)
 doladowania.t-mobile.pl##.banners-slider
 downdetector.pl###apps-card
 downdetector.pl###comments-card
@@ -25,6 +27,7 @@ doz.pl###js-swiper-teaser
 doz.pl###productOfTheDayBanner
 doz.pl##.salvitis2025-promobar__bar
 doz.pl##div[class*="kodabots"]
+drive.google.com##.XzbSje
 ekino-tv.pl##.commentsBlock
 ekino-tv.pl##.movieActors
 ekino-tv.pl##a[href="/movie/add"]
@@ -74,6 +77,9 @@ linuxcompatible.org##.cdb-upper
 linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
+majorgeeks.com##[style*="position:fixed;top:0"]
+mediaexpert.pl###expert-help-bubble-content
+mediaexpert.pl###help-bubble-content
 mrugalski.pl###newsletter-bar
 myradioonline.pl##.clippy
 myradioonline.pl##.clippy-balloon
@@ -86,11 +92,9 @@ naszemiasto.pl##.componentsPromotionsVideo__videoWrapper
 natemat.pl###article-body > div.art > div > div.c-fsuvhh
 natemat.pl###article-body > div.art > div > div.c-gFRWOk
 natemat.pl###article-body > div.art > div > div.c-gHsnJz
-natemat.pl##.c-HKIId
 natemat.pl##.c-hcNlLz
+natemat.pl##.c-HKIId
 natemat.pl##.c-hybVhV
-neowin.net##.code-widget
-newsweek.pl##.pw-autopromo-slot
 next.gazeta.pl##.conclusion__wrapper
 nlad.pl##.bottom-share
 nlad.pl##.donate-koniec-artykulu
@@ -119,8 +123,6 @@ picazor.com##[style="height:120px;min-height:120px;contain:layout paint size"]
 pictoa.com###menu-10
 pictoa.com###menu-2
 pictoa.com###tab-footer
-pilot.wp.pl##.sc-3qcaur-0, .hfYsRv
-pilot.wp.pl##.sc-y6ok5c-0, .fJAhSn, .sc-1olsnwh-1, .dfBkMT
 pixelnerd.pl###article-reactions-section
 pixelnerd.pl##.extra-link
 pogoda.interia.pl##.weather-currently-middle-AdAppBox
@@ -159,7 +161,6 @@ santander.pl##.finalCta
 santander.pl##.uokik-info
 scrolller.com###root > div.app--desktop > div.popup
 senzuri.tube###app > a.top-bar
-sextb.net##div.container:nth-child(2) > section.tray.all:nth-child(17)
 skidrowreloaded.com###custom_content-widget-1
 skidrowreloaded.com###text-3
 sprawdz.dhl.com.pl##.banner
@@ -198,11 +199,12 @@ wnp.pl##.header-partners
 x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
 xhamster.com##.Al-AcUsp-l-tab
-xhamster.com##.Jumll-Imsp-l-tab
 xhamster.com##.container-f57ba
+xhamster.com##.Jumll-Imsp-l-tab
 xhamster.com##.pnpTT-DBEsp-l-tab
 xhamster.com##.qi-iNno-ts-init
 xhamster.com##.secondary-8643e
+xhamster.com##.skeleton-53a78
 xhamster.com##:last-child[data-role="bottom-popup-ads"]
 xhamster.com##[class*="EYCMC"]
 xhamster.com##[data-item="ai-friend"]
