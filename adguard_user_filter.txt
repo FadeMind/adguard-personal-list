@@ -1,3 +1,8 @@
+! ALLOW
+@@||csr.onet.pl^$domain=onet.pl
+! COSMETIC
+analcave.com##.header-widget-container
+analcave.com##.page-header-wrapper
 android.com.pl##a[href*="track.performers.tech"]
 androidheadlines.com###post-1229123 > footer.entry-footer:nth-child(5) > div.row.justify-content-center > div.col-md-9.px-2 > div.row.d-none.d-md-flex.justify-content-center:nth-child(4)
 androidheadlines.com###right-sidebar
@@ -17,8 +22,6 @@ ckm.pl###desktop-video-exchngr-slot
 crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
 dappcdn.com##.ad-alt__w
 dappcdn.com##aside.sm.sn--sad
-deepl.com##div.flex:nth-child(9) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\]:last-child > div.relative.pe-0:nth-child(4) > div.relative.bg-white.Page_scalableTranslator__rzGIl:last-child > div.\[\.is-home_\&\]\:hidden:nth-child(2) > div.homeExperience_homeExperience__ixC9_:last-child > section.bg-white.mb-0.overflow-hidden.homeExperience_logoCloud___WQ__:first-child
-deepl.com##div.flex:nth-child(9) > div.relative.flex-1.min-w-0.\[\.is-home_\&\]\:min-h-screen.\[\.is-home_\&\]\:md\:pb-\[130px\].\[\.is-home_\&\]\:lg\:pb-\[90px\]:last-child > section.md\:px-redesign-6.md\:pb-redesign-7.md\:pt-redesign-8.gap-redesign-8.lg\:gap-redesign-4.dark.mx-auto.mb-0.flex.w-full.max-w-\[1400px\].flex-col.items-center.px-6.py-4.text-center:nth-child(3)
 doladowania.t-mobile.pl##.banners-slider
 downdetector.pl###apps-card
 downdetector.pl###comments-card
@@ -92,9 +95,10 @@ naszemiasto.pl##.componentsPromotionsVideo__videoWrapper
 natemat.pl###article-body > div.art > div > div.c-fsuvhh
 natemat.pl###article-body > div.art > div > div.c-gFRWOk
 natemat.pl###article-body > div.art > div > div.c-gHsnJz
-natemat.pl##.c-hcNlLz
 natemat.pl##.c-HKIId
+natemat.pl##.c-hcNlLz
 natemat.pl##.c-hybVhV
+newsweek.pl##.pw-autopromo-slot
 next.gazeta.pl##.conclusion__wrapper
 nlad.pl##.bottom-share
 nlad.pl##.donate-koniec-artykulu
@@ -193,14 +197,13 @@ tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
-wiadomosci.onet.pl##.followUs
 windowscentral.com##a[href=*"google.com/preferences/source"]
 wnp.pl##.header-partners
 x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
 xhamster.com##.Al-AcUsp-l-tab
-xhamster.com##.container-f57ba
 xhamster.com##.Jumll-Imsp-l-tab
+xhamster.com##.container-f57ba
 xhamster.com##.pnpTT-DBEsp-l-tab
 xhamster.com##.qi-iNno-ts-init
 xhamster.com##.secondary-8643e
@@ -240,3 +243,10 @@ zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(5)
 zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(9)
 zaluknij.cc##.alert
 zus.pl##.commercial-medium
+! DENY
+||buymeacoffee.com^$all
+||c.disquscdn.com^
+||cdn.onnetwork.tv^
+||disqus.com^$all
+||img.buymeacoffee.com^
+||video.onnetwork.tv^
