@@ -1,6 +1,3 @@
-! ALLOW
-@@||csr.onet.pl^$domain=onet.pl
-! COSMETIC
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
 android.com.pl##a[href*="track.performers.tech"]
@@ -46,6 +43,7 @@ fapello-forum.com##.uix_welcomeSection__inner
 filman.cc###comments
 filman.cc###input-comment
 filman.cc##.alert
+filman.cc##.quiz-button-neon
 filman.cc##center > a[href*="cancerfighters"]
 filmpolski.pl##.wazny_banner
 fxmag.pl##[class^="GoogleNews"]
@@ -80,6 +78,7 @@ linuxcompatible.org##.cdb-upper
 linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
+majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
 mediaexpert.pl###expert-help-bubble-content
 mediaexpert.pl###help-bubble-content
@@ -243,7 +242,6 @@ zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(5)
 zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(9)
 zaluknij.cc##.alert
 zus.pl##.commercial-medium
-! DENY
 ||buymeacoffee.com^$all
 ||c.disquscdn.com^
 ||cdn.onnetwork.tv^
