@@ -1,3 +1,4 @@
+@@||securepubads.g.doubleclick.net^$domain=tvn24.pl
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
 android.com.pl##a[href*="track.performers.tech"]
@@ -28,6 +29,7 @@ doz.pl###productOfTheDayBanner
 doz.pl##.salvitis2025-promobar__bar
 doz.pl##div[class*="kodabots"]
 drive.google.com##.XzbSje
+edziecko.pl##.art_embed
 ekino-tv.pl##.commentsBlock
 ekino-tv.pl##.movieActors
 ekino-tv.pl##a[href="/movie/add"]
@@ -50,6 +52,7 @@ fxmag.pl##[class^="GoogleNews"]
 fxmag.pl##[class^="Reactions_container"]
 gazeta.pl##.art_embed
 gazeta.pl##.player-now
+gazeta.pl,edziecko.pl##.hp-notification-bottom--show
 guru3d.com##.alert-warning
 hejto.pl##.suppi
 hejto.pl##.text-sm.justify-center.items-center
@@ -154,6 +157,7 @@ rmf24.pl###specialVideoCont
 roshy.tv###main-content > div.beeteam368-related-posts:last-child > div:nth-child(2)
 roshy.tv###main-content > div.classic-pos-video-player.is-single-post-main-player:first-child > div:nth-child(2)
 roshy.tv##.shortcode_widget
+rp.pl##.gremiPlayer
 rynek-kolejowy.pl##.najnowszyNumerRK
 rynek-kolejowy.pl##.partnerNaglowka
 rynek-kolejowy.pl##.partnership
@@ -198,6 +202,7 @@ watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
 windowscentral.com##a[href=*"google.com/preferences/source"]
 wnp.pl##.header-partners
+wykop.pl###banner_top_1 > div
 x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
 xhamster.com##.Al-AcUsp-l-tab
@@ -242,9 +247,3 @@ zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(5)
 zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(9)
 zaluknij.cc##.alert
 zus.pl##.commercial-medium
-||buymeacoffee.com^$all
-||c.disquscdn.com^
-||cdn.onnetwork.tv^
-||disqus.com^$all
-||img.buymeacoffee.com^
-||video.onnetwork.tv^
