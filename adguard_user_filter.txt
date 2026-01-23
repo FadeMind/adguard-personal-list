@@ -131,6 +131,9 @@ pictoa.com###menu-2
 pictoa.com###tab-footer
 pixelnerd.pl###article-reactions-section
 pixelnerd.pl##.extra-link
+pogoda.gazeta.pl###recommendations-tabpanel-recommended
+pogoda.gazeta.pl##.airPollution__adBoardWrapper
+pogoda.gazeta.pl##.recommendations
 pogoda.interia.pl##.weather-currently-middle-AdAppBox
 polsatnews.pl##.nav__items
 polskieradio24.pl##div[class^="Article_sharingBottom"]
@@ -194,6 +197,7 @@ tomshardware.com###affiliate-disclaimer
 tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot
 tracktrace.dpd.com.pl###banner-central-footer-image
+tvn24.pl##.wosp-main-container
 tvp.info##.module-apology__content
 tvp.info##.module-banner-ad__content
 tweaktown.com##.gnf
@@ -203,8 +207,10 @@ watchporn4k.com##.video-block-happy
 windowscentral.com##a[href=*"google.com/preferences/source"]
 wnp.pl##.header-partners
 wykop.pl###banner_top_1 > div
+wykop.pl##.doodle
 x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
+xgroovy.com###top_links > ul.second-menu-links
 xhamster.com##.Al-AcUsp-l-tab
 xhamster.com##.Jumll-Imsp-l-tab
 xhamster.com##.container-f57ba
