@@ -1,4 +1,3 @@
-@@||securepubads.g.doubleclick.net^$domain=tvn24.pl
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
 android.com.pl##a[href*="track.performers.tech"]
@@ -97,8 +96,8 @@ naszemiasto.pl##.componentsPromotionsVideo__videoWrapper
 natemat.pl###article-body > div.art > div > div.c-fsuvhh
 natemat.pl###article-body > div.art > div > div.c-gFRWOk
 natemat.pl###article-body > div.art > div > div.c-gHsnJz
-natemat.pl##.c-HKIId
 natemat.pl##.c-hcNlLz
+natemat.pl##.c-HKIId
 natemat.pl##.c-hybVhV
 newsweek.pl##.pw-autopromo-slot
 next.gazeta.pl##.conclusion__wrapper
@@ -124,6 +123,7 @@ pandamovies.org,speedporn.net##.adbn-wrap
 pandamovies.org,speedporn.net##.nonadbn-wrap
 pb.pl##.tp-container-inner
 perplexity.ai##.h-bannerHeight
+picazor.com##.mb-3
 picazor.com##[style="height:110px;min-height:110px;contain:layout paint size"]
 picazor.com##[style="height:120px;min-height:120px;contain:layout paint size"]
 pictoa.com###menu-10
@@ -176,6 +176,7 @@ skidrowreloaded.com###text-3
 sprawdz.dhl.com.pl##.banner
 sprawdz.dhl.com.pl##.secondBanner
 station-drivers.com###mod-custom429 > p > a:first-child > img
+station-drivers.com###mod-custom496
 station-drivers.com###mod-custom497
 station-drivers.com###mod-custom605
 station-drivers.com###popup
@@ -197,7 +198,6 @@ tomshardware.com###affiliate-disclaimer
 tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot
 tracktrace.dpd.com.pl###banner-central-footer-image
-tvn24.pl##.wosp-main-container
 tvp.info##.module-apology__content
 tvp.info##.module-banner-ad__content
 tweaktown.com##.gnf
@@ -212,8 +212,8 @@ x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
 xgroovy.com###top_links > ul.second-menu-links
 xhamster.com##.Al-AcUsp-l-tab
-xhamster.com##.Jumll-Imsp-l-tab
 xhamster.com##.container-f57ba
+xhamster.com##.Jumll-Imsp-l-tab
 xhamster.com##.pnpTT-DBEsp-l-tab
 xhamster.com##.qi-iNno-ts-init
 xhamster.com##.secondary-8643e
