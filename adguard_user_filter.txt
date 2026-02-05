@@ -78,12 +78,16 @@ leakedmodels.com##.js-notice
 leakedmodels.com##.promoz
 linuxcompatible.org##.cdb-upper
 linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
+lookmovie2.to###floating-ads-internal
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
+majorgeeks.com###content > div.geekywraplight:last-child > div:nth-child(3) > div:nth-child(9)
 majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
 mediaexpert.pl###expert-help-bubble-content
 mediaexpert.pl###help-bubble-content
+meteoblue.com###fixity
+meteoblue.com##.social-wrapper-with-twitter
 mrugalski.pl###newsletter-bar
 myradioonline.pl##.clippy
 myradioonline.pl##.clippy-balloon
