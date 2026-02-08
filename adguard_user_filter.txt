@@ -13,6 +13,9 @@ bankier.pl###onNetworkContainer
 bankier.pl###video-box
 bankier.pl##.placeholder-results
 bithub.pl###sticky-banner
+boop.pl##.reactions
+boop.pl##.share
+boop.pl##.sticky
 businessinsider.com.pl###specprawnik-widget
 businessinsider.com.pl##.follow-us
 ckm.pl###desktop-video-exchngr-slot
@@ -117,6 +120,9 @@ o-lekach.pl##.rekl
 oko.press###banner-after-text
 oko.press##div.aspect-mobile-banner.md\:aspect-banner.relative 
 oko.press##div.column.print\:hidden
+onet.pl###pianoInfoBottom > div.tp-container-inner
+onet.pl##[class*="BottomAdditionalText_containerDesktop"]
+onet.pl##div.paywallBottomBar > div.tp-container-inner
 onlineradiobox.com##.playmarket
 onlineradiobox.com##.saveUA
 onlineradiobox.com##[role="alertdialog"]
@@ -223,6 +229,7 @@ xhamster.com##.pnpTT-DBEsp-l-tab
 xhamster.com##.qi-iNno-ts-init
 xhamster.com##.secondary-8643e
 xhamster.com##.skeleton-53a78
+xhamster.com##.YgGz-XFxplayer-hover-menu
 xhamster.com##:last-child[data-role="bottom-popup-ads"]
 xhamster.com##[class*="EYCMC"]
 xhamster.com##[data-item="ai-friend"]
