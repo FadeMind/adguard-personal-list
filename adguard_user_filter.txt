@@ -209,8 +209,15 @@ tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot
 tracktrace.dpd.com.pl###banner-central-footer-image
 tvn24.pl##.ds-desktop:style(scrollbar-gutter: auto !important;)
+tvp.info##.article__social
+tvp.info##.footer__app-banner
+tvp.info##.footer__social-media
 tvp.info##.module-apology__content
 tvp.info##.module-banner-ad__content
+tvp.info##.module-live__faq
+tvp.info##.module-live__poster-bg
+tvp.info##.module-mini-player__wrapper
+tvp.info##.nav__social
 tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
 watchporn4k.com##.happy-section
