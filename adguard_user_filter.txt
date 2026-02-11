@@ -7,6 +7,7 @@ androidheadlines.com##.newsletter-modal-button
 antistorm.eu###main > a > div
 antistorm.eu###map-area > div > a > img
 babesource.com##.main-content__asd
+babestube.com##a[href*="z0000g.yvmads.com"]
 bankier.pl###deposit-calculator > h2
 bankier.pl###hotnews-bar
 bankier.pl###onNetworkContainer
@@ -85,6 +86,9 @@ lookmovie2.to###floating-ads-internal
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
 majorgeeks.com###content > div.geekywraplight:last-child > div:nth-child(3) > div:nth-child(9)
+majorgeeks.com###nointelliTXT > table > tbody > tr > td:first-child > div.geekycolumn > b:last-child
+majorgeeks.com###nointelliTXT > table > tbody > tr > td:last-child > p:last-child
+majorgeeks.com###rateform
 majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
 mediaexpert.pl###expert-help-bubble-content
@@ -152,6 +156,7 @@ pornicom.com##.spot-under
 pornoxo.com##.combined-banner, .cb-show
 pornoxo.com##.fh-line, .fh-margin
 pornoxo.com##.wgt-container
+pornpics.com##a[href*="pornpics.com/goto/"]
 portalsamorzadowy.pl##.google-box
 portalsamorzadowy.pl##.partners
 portalwrc.pl###mod-custom172
@@ -223,6 +228,7 @@ uflix.cc###bebfaddededbcfea
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
 windowscentral.com##a[href=*"google.com/preferences/source"]
+windowslatest.com##.support-buttons-container
 wnp.pl##.header-partners
 wykop.pl###banner_top_1 > div
 wykop.pl##.doodle

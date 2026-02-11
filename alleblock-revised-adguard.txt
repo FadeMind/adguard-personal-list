@@ -1,5 +1,5 @@
 ! Title: AlleBlock Revised
-! Version: 20251115v1
+! Version: 20260211v1
 ! Expires: 1 day
 ! Description: Blocking annoyances on e-commerce sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
@@ -179,6 +179,7 @@ ceneo.pl##.home-popular-brands
 ceneo.pl##.recommended-products
 ceneo.pl##.lnd_wrapper
 ceneo.pl##.mobileQR
+/aiAssistant/*.js$script,domain=ceneo.pl
 ! Wersja mobilna
 ceneo.pl##.showcase
 ceneo.pl##.js_recommendations-container, .js_analytics-promotedItems
