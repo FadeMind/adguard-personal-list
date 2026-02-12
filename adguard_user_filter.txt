@@ -1,3 +1,4 @@
+/js/social.js$script,domain=skidrowcodex.net
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
 android.com.pl##a[href*="track.performers.tech"]
@@ -38,6 +39,11 @@ ekino-tv.pl##.movieActors
 ekino-tv.pl##a[href="/movie/add"]
 ekino-tv.pl##a[href="/premium/"]
 ekino-tv.pl##li:has(a[href="#premium"])
+eurosport.tvn24.pl##.bg-navigation-previous-next-nav-surface-fill-01
+eurosport.tvn24.pl##[data-testid="marketing-banner"]
+eurosport.tvn24.pl##[data-testid="molecule-app-download-banner-article"]
+eurosport.tvn24.pl##[data-testid="stars-rating"]
+eurosport.tvn24.pl##div[aria-label="Share"]
 ewarszawa.pl##.bannerBox
 ewarszawa.pl##.mainBoxes__box
 ewarszawa.pl##.newsletter
