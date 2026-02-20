@@ -137,6 +137,8 @@ oko.press###banner-after-text
 oko.press##div.aspect-mobile-banner.md\:aspect-banner.relative 
 oko.press##div.column.print\:hidden
 onet.pl###pianoInfoBottom > div.tp-container-inner
+onet.pl##.ods-c-follow-us
+onet.pl##.ods-o-authorship-bottom__action-bar
 onet.pl##[class*="BottomAdditionalText_containerDesktop"]
 onet.pl##[class*="emotionsContainer"]
 onet.pl##div.paywallBottomBar > div.tp-container-inner
@@ -230,6 +232,7 @@ tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot
 tracktrace.dpd.com.pl###banner-central-footer-image
 tvn24.pl##.ds-desktop:style(scrollbar-gutter: auto !important;)
+tvn24.pl##yen-share-buttons
 tvp.info##.article__social
 tvp.info##.footer__app-banner
 tvp.info##.footer__social-media
@@ -248,6 +251,7 @@ windowslatest.com##.support-buttons-container
 wnp.pl##.header-partners
 wykop.pl###banner_top_1 > div
 wykop.pl##.doodle
+wykop.pl##.lisek-app
 wykop.pl##a[href*="fralio.com"]
 x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
