@@ -106,6 +106,8 @@ mediaexpert.pl###help-bubble-content
 mediaexpert.pl##div.new-editor-adserver.personalized-banner
 meteoblue.com###fixity
 meteoblue.com##.social-wrapper-with-twitter
+mojdhl.pl##[class*="parcel-tracking_newsletter"]
+mojdhl.pl##[class*="tracking_banner-container"]
 mrugalski.pl###newsletter-bar
 myradioonline.pl##.clippy
 myradioonline.pl##.clippy-balloon
