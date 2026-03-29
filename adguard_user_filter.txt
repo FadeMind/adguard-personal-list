@@ -10,6 +10,7 @@ androidheadlines.com##.newsletter-modal-button
 antistorm.eu###main > a > div
 antistorm.eu###map-area > div > a > img
 antyweb.pl##.gdiscovery
+asiaxbit.com##.happy-under-player-mobile
 babesource.com##.banner-asd__banner
 babesource.com##.main-content__asd
 babesource.com##.propose-discount
@@ -21,6 +22,7 @@ bankier.pl###onNetworkContainer
 bankier.pl###reports-users-box
 bankier.pl###video-box
 bankier.pl##.placeholder-results
+bestjavporn.com##a[rel*="sponsored"]
 bezprawnik.pl###wrapper-figcaption
 bithub.pl###disqus_thread
 bithub.pl###meme_slider_widget-2
@@ -104,6 +106,7 @@ javhdporn.net##a[rel*="sponsored"]
 klubjagiellonski.pl##.wp-image-76611
 koleje-wielkopolskie.com.pl###installFirefox
 koleje-wielkopolskie.com.pl#@#footer a[href*="facebook.com/"]
+komputronik.pl#%#//scriptlet("abort-on-property-read", "SyneriseTC.os.mobile")
 krs-pobierz.pl##.banner-sprawdzaj
 ktomalek.pl##.mp-products
 kwestiasmaku.com###block-application-ks-related-content
@@ -142,6 +145,7 @@ natemat.pl##.c-hcNlLz
 natemat.pl##.c-HKIId
 natemat.pl##.c-hybVhV
 natemat.pl##div.c-hdEcPv.c-bZCKhA
+neowin.net###codewidget-10
 newsweek.pl##.pw-autopromo-slot
 next.gazeta.pl##.conclusion__wrapper
 nlad.pl##.bottom-share
@@ -272,6 +276,7 @@ tvp.info##.module-mini-player__wrapper
 tvp.info##.nav__social
 tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
+videocardz.com###vc-maincontainer-disqus
 videocardz.com##.google-preferred-source-button
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
@@ -288,6 +293,7 @@ xfeed.com##.prm-content-wrapper
 xgroovy.com###top_links > ul.second-menu-links
 xhamster.com###video_info_container > div > div:last-child
 xhamster.com##.sponsor-banner
+xhamster.com##.uix-NdUkbanner
 xhamster.com##.watch-more-container
 xhamster.com##[data-item="ai-friend"]
 xhamster.com##[data-item="dating"]
