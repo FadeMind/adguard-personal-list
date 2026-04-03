@@ -10,7 +10,6 @@ androidheadlines.com##.newsletter-modal-button
 antistorm.eu###main > a > div
 antistorm.eu###map-area > div > a > img
 antyweb.pl##.gdiscovery
-asiaxbit.com##.happy-under-player-mobile
 babesource.com##.banner-asd__banner
 babesource.com##.main-content__asd
 babesource.com##.propose-discount
@@ -119,11 +118,13 @@ lookmovie2.to###floating-ads-internal
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
 majorgeeks.com###content > div.geekywraplight:last-child > div:nth-child(3) > div:nth-child(9)
+majorgeeks.com###menu1 > div.altcontent:has([id*="ad"])
 majorgeeks.com###nointelliTXT > table > tbody > tr > td:first-child > div.geekycolumn > b:last-child
 majorgeeks.com###nointelliTXT > table > tbody > tr > td:last-child > p:last-child
 majorgeeks.com###rateform
 majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
+majorgeeks.com##div[style*="background-color: #F5F5E3"]:has(a[href*="avast"])
 meteoblue.com###fixity
 meteoblue.com##.social-wrapper-with-twitter
 mojdhl.pl##[class*="parcel-tracking_newsletter"]
