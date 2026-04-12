@@ -1,5 +1,3 @@
-/sandi*.js$script,domain=centrum24.pl
-/social.js$script,domain=skidrowcodex.net
 9to5google.com##.google-preferred-source-badge
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
@@ -33,8 +31,6 @@ browserleaks.com##body:style(background: none !important; background-color: tran
 businessinsider.com.pl###specprawnik-widget
 businessinsider.com.pl##.follow-us
 businessinsider.com.pl##.list-title_sponsor
-centrum24.pl###log_left
-centrum24.pl###log_right
 ckm.pl###desktop-video-exchngr-slot
 crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
 dappcdn.com##.ad-alt__w
@@ -58,6 +54,7 @@ ekino-tv.pl##.movieActors
 ekino-tv.pl##a[href="/movie/add"]
 ekino-tv.pl##a[href="/premium/"]
 ekino-tv.pl##li:has(a[href="#premium"])
+errrotica.com##.banners
 eurosport.tvn24.pl##.bg-navigation-previous-next-nav-surface-fill-01
 eurosport.tvn24.pl##[data-testid="marketing-banner"]
 eurosport.tvn24.pl##[data-testid="molecule-app-download-banner-article"]
@@ -73,9 +70,11 @@ fapello-forum.com##.uix_welcomeSection__inner
 filman.cc###comments
 filman.cc###input-comment
 filman.cc##.alert
+filman.cc##.fb-comments
 filman.cc##.quiz-button-neon
 filman.cc##center > a[href*="cancerfighters"]
 filmpolski.pl##.wazny_banner
+fucker.com##.channel-promo
 fxmag.pl##[class^="GoogleNews"]
 fxmag.pl##[class^="Reactions_container"]
 gazeta.pl###LinkArea\:NavIco > div.disappearingTooltip:last-child
@@ -124,6 +123,7 @@ majorgeeks.com###nointelliTXT > table > tbody > tr > td:last-child > p:last-chil
 majorgeeks.com###rateform
 majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
+majorgeeks.com##[style="width:150px;height:600px;overflow:hidden;display:block;position:relative"]
 majorgeeks.com##div[style*="background-color: #F5F5E3"]:has(a[href*="avast"])
 meteoblue.com###fixity
 meteoblue.com##.social-wrapper-with-twitter
@@ -233,6 +233,7 @@ scrolller.com###root > div.app--desktop > div.popup
 senzuri.tube###app > a.top-bar
 skidrowreloaded.com###custom_content-widget-1
 skidrowreloaded.com###text-3
+sport.pl##.hp-notification-bottom
 sport.tvp.pl#@#.icon-facebook
 sport.tvp.pl#@#.icon-instagram
 sport.tvp.pl#@#.icon-twitter
@@ -264,6 +265,7 @@ tomshardware.com###affiliate-disclaimer
 tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot
 tracktrace.dpd.com.pl###banner-central-footer-image
+trendyporn.com##div[style="height:280px; width:auto"]
 tuwroclaw.com##.section__box:has(img[alt*="Google News"])
 tvn24.pl##yen-share-buttons
 tvp.info##.article__social
@@ -279,6 +281,7 @@ tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
 videocardz.com###vc-maincontainer-disqus
 videocardz.com##.google-preferred-source-button
+wallpics.app##div.content-min-height.grid:nth-child(4) > main.box-container.my-d.min-w-0:first-child > div.mb-d:first-child
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
 windowscentral.com##a[href=*"google.com/preferences/source"]
@@ -287,6 +290,7 @@ wnp.pl##.header-partners
 wykop.pl###banner_top_1 > div
 wykop.pl##.doodle
 wykop.pl##.lisek-app
+wykop.pl##.rcppnpev
 wykop.pl##.wrapper:has(a[href*="tradedoubler.com"])
 wykop.pl##a[href*="fralio.com"]
 x-downloader.com##.banner
