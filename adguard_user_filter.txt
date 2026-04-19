@@ -299,6 +299,7 @@ xgroovy.com###top_links > ul.second-menu-links
 xhamster.com###video_info_container > div > div:last-child
 xhamster.com##.sponsor-banner
 xhamster.com##.uix-NdUkbanner
+xhamster.com##.video-thumb:has(div[class*="skeleton"])
 xhamster.com##.watch-more-container
 xhamster.com##[data-item="ai-friend"]
 xhamster.com##[data-item="dating"]
