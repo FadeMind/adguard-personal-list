@@ -178,10 +178,11 @@ pandamovies.org,speedporn.net##.adbn-wrap
 pandamovies.org,speedporn.net##.nonadbn-wrap
 pb.pl##.tp-container-inner
 perplexity.ai##.h-bannerHeight
-picazor.com##div > a[href*="serve.sellspirev.com"]
 picazor.com##.mb-3
 picazor.com##[style^="height:110px;min-height:110px"]
 picazor.com##[style^="height:120px;min-height:120px"]
+picazor.com##div > a[href*="serve.sellspirev.com"]
+picazor.com##div[class="flex flex-wrap gap-2 w-full"]:has(a)
 pictoa.com###menu-10
 pictoa.com###menu-2
 pictoa.com###tab-footer
