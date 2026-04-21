@@ -1,0 +1,38 @@
+! Title: YouTube Tweaks
+! Version: 20260421v1
+! Expires: 1 day
+! Description: Cleanup annoyances on YouTube
+! Partially based on https://github.com/brave/adblock-lists/blob/master/brave-lists/yt-shorts.txt
+! Homepage: https://github.com/FadeMind/adguard-personal-list
+!
+! Hide Sponsor Button
+youtube.com##div[id="sponsor-button"]
+! Hide Chat
+youtube.com##div[id="chat-container"]
+youtube.com##div[class="style-scope yt-live-chat-renderer"]
+youtube.com##[id="chat"]
+youtube.com##div[id="panels-full-bleed-container"]
+youtube.com##ytd-watch-flexy[fixed-panels] #columns.ytd-watch-flexy:style(padding-right: 0 !important;)
+! Youtube Shorts
+! Main page
+youtube.com##ytd-rich-section-renderer:has(a[href^="/shorts/"])
+m.youtube.com##.rich-section-content
+m.youtube.com##.big-shorts-singleton
+! Trending page
+youtube.com##ytd-reel-shelf-renderer:has(a[href^="/shorts/"])
+! Search/Trending page (Android)
+youtube.com##ytm-reel-shelf-renderer
+youtube.com##.media-item-thumbnail-container[aria-hidden][href^="/shorts/"]
+youtube.com##ytm-media-item:has(a[href^="/shorts/"])
+youtube.com##.ytd-rich-shelf-renderer:has-text(Shorts)
+youtube.com##ytd-video-renderer > .ytd-video-renderer:has(a[href^="/shorts/"])
+youtube.com##.rich-section-content.fresh-feeds-dismissals
+! side shorts
+youtube.com###items.yt-horizontal-list-renderer > ytd-reel-item-renderer
+! shorts icons (desktop and mobile)
+youtube.com##.pivot-shorts.pivot-bar-item-tab
+youtube.com##.yt-simple-endpoint[title="Shorts"]
+! Updated rules
+youtube.com##.ytGridShelfViewModelHost
+! Shorts search header button
+youtube.com##.ytChipShapeHost:has-text(Shorts)
