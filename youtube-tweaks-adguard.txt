@@ -1,5 +1,5 @@
 ! Title: YouTube Tweaks
-! Version: 20260421v1
+! Version: 20260424v1
 ! Expires: 1 day
 ! Description: Cleanup annoyances on YouTube
 ! Partially based on https://github.com/brave/adblock-lists/blob/master/brave-lists/yt-shorts.txt
@@ -7,6 +7,8 @@
 !
 ! Hide Sponsor Button
 youtube.com##div[id="sponsor-button"]
+! Hide Premium offer
+youtube.com###shelf-header-container:has(a[href*="/premium"])
 ! Hide Chat
 youtube.com##div[id="chat-container"]
 youtube.com##div[class="style-scope yt-live-chat-renderer"]
