@@ -55,6 +55,7 @@ ekino-tv.pl##a[href="/movie/add"]
 ekino-tv.pl##a[href="/premium/"]
 ekino-tv.pl##li:has(a[href="#premium"])
 errrotica.com##.banners
+erste.pl##.advertisingBar
 eurosport.tvn24.pl##.bg-navigation-previous-next-nav-surface-fill-01
 eurosport.tvn24.pl##[data-testid="marketing-banner"]
 eurosport.tvn24.pl##[data-testid="molecule-app-download-banner-article"]
@@ -229,9 +230,6 @@ rynek-kolejowy.pl##.partnerNaglowka
 rynek-kolejowy.pl##.partnership
 rynekzdrowia.pl##.e3
 rynekzdrowia.pl##.google-box
-santander.pl##.advertisingBar
-santander.pl##.finalCta
-santander.pl##.uokik-info
 scrolller.com###root > div.app--desktop > div.popup
 senzuri.tube###app > a.top-bar
 skidrowreloaded.com###custom_content-widget-1
