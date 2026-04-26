@@ -103,6 +103,8 @@ javgg.net###post-999999
 javgg.net##.home_iframead
 javhdporn.net##a[href*="javhdporn.live"]
 javhdporn.net##a[rel*="sponsored"]
+katestube.com##.heading
+katestube.com##.player-sidebar
 klubjagiellonski.pl##.wp-image-76611
 koleje-wielkopolskie.com.pl###installFirefox
 koleje-wielkopolskie.com.pl#@#footer a[href*="facebook.com/"]
