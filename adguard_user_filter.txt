@@ -95,6 +95,9 @@ interia.pl##.emotion-my-reaction
 interia.pl##.ids-video-player
 interia.pl##.oferty
 interia.pl##.section-rekom
+inxxx.com###live-spots
+inxxx.com##a[href*="/to/live-sex"]
+inxxx.com##a[href*="/to/show-random-chat"]
 ithardware.pl##.btnScrollToComments
 ithardware.pl##.content-array__media-expert
 ithardware.pl##.deposit-footer
