@@ -179,10 +179,8 @@ pandamovies.org,speedporn.net##.adbn-wrap
 pandamovies.org,speedporn.net##.nonadbn-wrap
 pb.pl##.tp-container-inner
 perplexity.ai##.h-bannerHeight
-picazor.com##.mb-3
 picazor.com##[style^="height:110px;min-height:110px"]
 picazor.com##[style^="height:120px;min-height:120px"]
-picazor.com##div > a[href*="serve.sellspirev.com"]
 picazor.com##div[class="flex flex-wrap gap-2 w-full"]:has(a)
 pictoa.com###menu-10
 pictoa.com###menu-2
@@ -200,6 +198,8 @@ polskieradio24.pl##div[class^="Footer_footerTop"]
 pornicom.com##.spot-under
 pornoxo.com##.combined-banner, .cb-show
 pornoxo.com##.fh-line, .fh-margin
+pornoxo.com##.js-toggle-content-wrapper:has(a[href*="cam"])
+pornoxo.com##.side-content-block
 pornoxo.com##.wgt-container
 pornpics.com##a[href*="pornpics.com/goto/"]
 portalsamorzadowy.pl##.google-box
@@ -219,6 +219,7 @@ pureinfotech.com##.inpost-newsletter
 pureinfotech.com##.kofi-box
 purepc.pl##.googlenews
 pxxbay.com##.custom-html-widget
+pxxbay.com##.gridmax-grid-ads-widget
 reddit.com##shreddit-async-loader[bundlename="feed_announcement"]
 rmf24.pl###specialVideoCont
 roshy.tv###main-content > div.beeteam368-related-posts:last-child > div:nth-child(2)
@@ -332,6 +333,7 @@ xxbrits.com##.awebl_webcams
 xxbrits.com##.click-fun
 xxbrits.com##.premium
 xxbrits.com##.telegram
+xxbrits.com##[class="th avd"]:has(div > a)
 xxbrits.com##div.wrapper:first-child > div.main:nth-child(5) > section.section:last-child > div.container > div.description-box
 zadarmo.xyz##div.container:first-child > div.logoo:first-child > a:last-child > img.responsivee.pe-4.pt-4
 zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(5)
