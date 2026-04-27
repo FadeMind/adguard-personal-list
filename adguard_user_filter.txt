@@ -118,6 +118,7 @@ kwestiasmaku.com###block-application-ks-related-content
 kwestiasmaku.com##.pas_dolny
 leakedmodels.com##.js-notice
 leakedmodels.com##.promoz
+leakedzone.com###header > a
 linuxcompatible.org##.cdb-upper
 linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
 lookmovie2.to###floating-ads-internal
@@ -238,6 +239,8 @@ rynekzdrowia.pl##.e3
 rynekzdrowia.pl##.google-box
 scrolller.com###root > div.app--desktop > div.popup
 senzuri.tube###app > a.top-bar
+sextb.cc##.hidden-sm
+sextb.net##.hidden-sm
 skidrowreloaded.com###custom_content-widget-1
 skidrowreloaded.com###text-3
 sport.pl##.hp-notification-bottom
