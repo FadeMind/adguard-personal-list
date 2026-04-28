@@ -303,6 +303,7 @@ wykop.pl##.lisek-app
 wykop.pl##.rcppnpev
 wykop.pl##.wrapper:has(a[href*="tradedoubler.com"])
 wykop.pl##a[href*="fralio.com"]
+wykop.pl##article:has([for="switch-newsletter-cta"])
 x-downloader.com##.banner
 xfeed.com##.prm-content-wrapper
 xgroovy.com###top_links > ul.second-menu-links
