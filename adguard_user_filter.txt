@@ -69,6 +69,7 @@ fakt.pl##.follow-us
 fakt.pl##.padded-partner-section
 fapello.com##div > a[href*="golovehub.com"]
 fapello.com##div > a[href*="undress.cc"]
+filman.cc###appModal
 filman.cc###comments
 filman.cc###input-comment
 filman.cc##.alert
@@ -174,7 +175,9 @@ onet.pl##.ods-c-follow-us
 onet.pl##.ods-o-authorship-bottom__action-bar
 onet.pl##[class*="BottomAdditionalText_containerDesktop"]
 onet.pl##[class*="emotionsContainer"]
+onet.pl##a[id*="onetAudioBanner"]
 onet.pl##div.paywallBottomBar > div.tp-container-inner
+onet.pl##div[class="onetAudioBanner"]
 onlineradiobox.com##.playmarket
 onlineradiobox.com##.saveUA
 onlineradiobox.com##[role="alertdialog"]
@@ -199,6 +202,9 @@ pogoda.gazeta.pl##.airPollution__adBoardWrapper
 pogoda.gazeta.pl##.recommendations
 pogoda.interia.pl##.weather-currently-middle-AdAppBox
 polsatnews.pl##.nav__items
+polsatnews.pl##.news__figure--vod
+polsatnews.pl##.news__rndvod-header
+polsatnews.pl##p > strong:has(a)
 polskieradio24.pl##div[class^="Article_sharingBottom"]
 polskieradio24.pl##div[class^="Footer_footerTop"]
 pornicom.com##.spot-under
@@ -291,7 +297,6 @@ tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
 videocardz.com###vc-maincontainer-disqus
 videocardz.com##.google-preferred-source-button
-wallpics.app##div.content-min-height.grid:nth-child(4) > main.box-container.my-d.min-w-0:first-child > div.mb-d:first-child
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
 windowscentral.com##a[href=*"google.com/preferences/source"]
@@ -333,6 +338,7 @@ xhamster.com##div[class*="clipstore"]
 xhamster.com##div[class*="premium"]
 xhamster.com##div[class*="rectangle"]
 xhamster.com##div[class*="xplayer-hover-menu"]
+xhamster.com##div[data-block="moments"]
 xhamster.com##div[data-item="lusty-heroes"]
 xhamster.com##div[data-nav-item-id="priority-vpn"]
 xhamster.com##div[data-role*="promo"]
@@ -343,7 +349,6 @@ xxbrits.com##.click-fun
 xxbrits.com##.premium
 xxbrits.com##.telegram
 xxbrits.com##[class="th avd"]:has(div > a)
-xxbrits.com##div.wrapper:first-child > div.main:nth-child(5) > section.section:last-child > div.container > div.description-box
 zadarmo.xyz##div.container:first-child > div.logoo:first-child > a:last-child > img.responsivee.pe-4.pt-4
 zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(5)
 zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(9)
