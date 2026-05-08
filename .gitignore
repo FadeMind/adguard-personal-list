@@ -1,0 +1,8 @@
+*
+!.gitignore
+!.gitattributes
+!adguard_user_filter.txt
+!alleblock-revised-adguard.txt
+!LICENSE.txt
+!README.md
+!youtube-tweaks-adguard.txt
