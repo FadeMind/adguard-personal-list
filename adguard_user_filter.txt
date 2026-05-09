@@ -102,6 +102,7 @@ inxxx.com##a[href*="/to/show-random-chat"]
 ithardware.pl##.btnScrollToComments
 ithardware.pl##.content-array__media-expert
 ithardware.pl##.deposit-footer
+ithardware.pl##.post-sharing
 javgg.net###headerlink
 javgg.net###post-999999
 javgg.net##.home_iframead
@@ -313,6 +314,7 @@ windowscentral.com##a[href=*"google.com/preferences/source"]
 windowslatest.com##.support-buttons-container
 wirtualnemedia.pl##.container:has(> a[href="/newsletter"])
 wirtualnemedia.pl##.embed-wpplayer
+wirtualnemedia.pl##.wm-article-header-share
 wirtualnemedia.pl##.wm-menumobile-newsletter-button
 wirtualnemedia.pl##.wm-newsletter
 wirtualnemedia.pl##.wp-content-part-video
