@@ -73,6 +73,8 @@ filman.cc###appModal
 filman.cc###comments
 filman.cc###input-comment
 filman.cc##.alert
+filman.cc##.c-add-wrap
+filman.cc##.c-section-header:has(span.c-count)
 filman.cc##.fb-comments
 filman.cc##.quiz-button-neon
 filman.cc##center > a[href*="cancerfighters"]
@@ -82,8 +84,11 @@ fxmag.pl##[class^="GoogleNews"]
 fxmag.pl##[class^="Reactions_container"]
 gazeta.pl###LinkArea\:NavIco > div.disappearingTooltip:last-child
 gazeta.pl##.art_embed
+gazeta.pl##.player--now
 gazeta.pl##.player-now
+gazeta.pl##.salesModule
 gazeta.pl,edziecko.pl##.hp-notification-bottom--show
+gazeta.pl,sport.pl##.article-footer-thank-you
 gog-games.to##.text-center:has(.notice)
 guru3d.com##.alert-warning
 hejto.pl##.suppi
@@ -126,6 +131,8 @@ linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
 lookmovie2.to###floating-ads-internal
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
+m.facebook.com##body{padding-bottom:0!important;}
+m.facebook.com##div.fixed-container.bottom
 majorgeeks.com###content > div.geekywraplight:last-child > div:nth-child(3) > div:nth-child(9)
 majorgeeks.com###menu1 > div.altcontent:has([id*="ad"])
 majorgeeks.com###nointelliTXT > table > tbody > tr > td:first-child > div.geekycolumn > b:last-child
@@ -260,7 +267,10 @@ sextb.cc##.hidden-sm
 sextb.net##.hidden-sm
 skidrowreloaded.com###custom_content-widget-1
 skidrowreloaded.com###text-3
+sport.pl##.art_embed:has(.onnOnDemand)
 sport.pl##.hp-notification-bottom
+sport.pl##.tile--player
+sport.pl##div[data-bd-viewability-id="pianoContentNewsletterId"]
 sport.tvp.pl#@#.icon-facebook
 sport.tvp.pl#@#.icon-instagram
 sport.tvp.pl#@#.icon-twitter
