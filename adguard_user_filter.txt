@@ -64,8 +64,6 @@ eurosport.tvn24.pl##div[aria-label="Share"]
 ewarszawa.pl##.bannerBox
 ewarszawa.pl##.mainBoxes__box
 ewarszawa.pl##.newsletter
-facebook.com##body{padding-bottom:0!important;}
-facebook.com##div.fixed-container.bottom
 fakt.pl##.article-contact
 fakt.pl##.follow-us
 fakt.pl##.padded-partner-section
