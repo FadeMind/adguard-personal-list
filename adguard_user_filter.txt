@@ -77,6 +77,7 @@ filman.cc##.c-add-wrap
 filman.cc##.c-section-header:has(span.c-count)
 filman.cc##.fb-comments
 filman.cc##.quiz-button-neon
+filman.cc##a[class*="quiz"]
 filman.cc##center > a[href*="cancerfighters"]
 filmpolski.pl##.wazny_banner
 fucker.com##.channel-promo
@@ -151,7 +152,6 @@ myradioonline.pl##.clippy-content
 myradioonline.pl##.fb-shrbtn
 myradioonline.pl##.js-bell-noti
 myradioonline.pl##.js-fbSend
-myradioonline.pl##.popup_layer
 naszemiasto.pl##.componentsPromotionsVideo__videoWrapper
 natemat.pl###article-body > div.art > div > div.c-fsuvhh
 natemat.pl###article-body > div.art > div > div.c-gFRWOk
