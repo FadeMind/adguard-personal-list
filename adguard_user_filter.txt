@@ -94,6 +94,7 @@ gog-games.to##.text-center:has(.notice)
 guru3d.com##.alert-warning
 hejto.pl##.suppi
 hejto.pl##.userbar
+hejto.pl##div:has(> a[href*="patronite.pl/hejto"])
 imoje.pl##.banner__wrapper
 inpost.pl##.newsletter--form
 interia.pl###gazetki
@@ -119,7 +120,6 @@ katestube.com##.player-sidebar
 klubjagiellonski.pl##.wp-image-76611
 koleje-wielkopolskie.com.pl###installFirefox
 koleje-wielkopolskie.com.pl#@#footer a[href*="facebook.com/"]
-komputronik.pl#%#//scriptlet("abort-on-property-read", "SyneriseTC.os.mobile")
 krs-pobierz.pl##.banner-sprawdzaj
 ktomalek.pl##.mp-products
 kwestiasmaku.com###block-application-ks-related-content
@@ -140,6 +140,7 @@ majorgeeks.com###rateform
 majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
 majorgeeks.com##[style="width:150px;height:600px;overflow:hidden;display:block;position:relative"]
+majorgeeks.com##div.mg-giveaway-banner:first-child > a
 majorgeeks.com##div[style*="background-color: #F5F5E3"]:has(a[href*="avast"])
 meteoblue.com###fixity
 meteoblue.com##.social-wrapper-with-twitter
@@ -183,6 +184,7 @@ onet.pl##[class*="BottomAdditionalText_containerDesktop"]
 onet.pl##[class*="emotionsContainer"]
 onet.pl##a[id*="onetAudioBanner"]
 onet.pl##div.paywallBottomBar > div.tp-container-inner
+onet.pl##div[class*="ImportantSimpleFeed_ImportantSimpleFeedItemsWithGradient"]
 onet.pl##div[class="onetAudioBanner"]
 onlineradiobox.com##.playmarket
 onlineradiobox.com##.saveUA
@@ -193,6 +195,7 @@ onlineradiobox.com##ul.projects-links
 pandamovies.org,speedporn.net##.adbn-wrap
 pandamovies.org,speedporn.net##.nonadbn-wrap
 pb.pl##.tp-container-inner
+perfectgirls.xxx##div.wrapper.pintour > div.head-wrapper.index-head > div.top_spot.desk
 perplexity.ai##.h-bannerHeight
 picazor.com##[style^="height:110px;min-height:110px"]
 picazor.com##[style^="height:120px;min-height:120px"]
