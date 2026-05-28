@@ -335,6 +335,7 @@ wykop.pl###banner_top_1 > div
 wykop.pl##.doodle
 wykop.pl##.lisek-app
 wykop.pl##.rcppnpev
+wykop.pl##.selected
 wykop.pl##.wrapper:has(a[href*="tradedoubler.com"])
 wykop.pl##a[href*="fralio.com"]
 wykop.pl##article:has([for="switch-newsletter-cta"])
@@ -344,7 +345,12 @@ xfeed.com##.prm-content-wrapper
 xgroovy.com###top_links > ul.second-menu-links
 xhamster.com###video_info_container > div > div:last-child
 xhamster.com##.sponsor-banner
+xhamster.com##.thumb-list-mobile-item:has(a[href*="/ff/out"])
+xhamster.com##.thumb-list-mobile-item:has(a[href*="faphouse"])
 xhamster.com##.thumb-list-mobile-item:has(div[class*="skeleton"])
+xhamster.com##.thumb-list__item:has(a[href*="/ff/out"])
+xhamster.com##.thumb-list__item:has(a[href*="faphouse"])
+xhamster.com##.thumb-list__item:has(a[href*="xhamsterlive"])
 xhamster.com##.uix-NdUkbanner
 xhamster.com##.video-thumb:has(div[class*="skeleton"])
 xhamster.com##.watch-more-container
@@ -373,6 +379,7 @@ xhamster.com##div[data-item="lusty-heroes"]
 xhamster.com##div[data-nav-item-id="priority-vpn"]
 xhamster.com##div[data-role*="promo"]
 xhamster.com##div[data-role="bottom-popup-ads"]
+xhamster.com##li.thumb-list-mobile-item:has(a[href*="xhamsterlive"])
 xhamster.com##span.with-dot
 xxbrits.com##.awebl_webcams
 xxbrits.com##.click-fun
