@@ -137,6 +137,7 @@ majorgeeks.com###menu1 > div.altcontent:has([id*="ad"])
 majorgeeks.com###nointelliTXT > table > tbody > tr > td:first-child > div.geekycolumn > b:last-child
 majorgeeks.com###nointelliTXT > table > tbody > tr > td:last-child > p:last-child
 majorgeeks.com###rateform
+majorgeeks.com##.mg-giveaway-bar
 majorgeeks.com##.navigation-light
 majorgeeks.com##[style*="position:fixed;top:0"]
 majorgeeks.com##[style="width:150px;height:600px;overflow:hidden;display:block;position:relative"]
