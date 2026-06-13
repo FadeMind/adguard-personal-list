@@ -31,6 +31,7 @@ browserleaks.com##body:style(background: none !important; background-color: tran
 businessinsider.com.pl###specprawnik-widget
 businessinsider.com.pl##.follow-us
 businessinsider.com.pl##.list-title_sponsor
+cda.pl#@#.row-video-clip-wrapper
 ckm.pl###desktop-video-exchngr-slot
 crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
 dappcdn.com##.ad-alt__w
