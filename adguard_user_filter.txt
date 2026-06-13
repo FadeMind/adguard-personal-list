@@ -35,6 +35,7 @@ ckm.pl###desktop-video-exchngr-slot
 crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
 dappcdn.com##.ad-alt__w
 dappcdn.com##aside.sm.sn--sad
+definebabe.com##.right-sidebar-widget
 developer.samsung.com##.newsletter-sub-panel
 dlahandlu.pl##.google-box
 dlahandlu.pl##.p-top-right
@@ -48,6 +49,9 @@ doz.pl###productOfTheDayBanner
 doz.pl##.salvitis2025-promobar__bar
 doz.pl##div[class*="kodabots"]
 drive.google.com##.XzbSje
+dsogaming.com###primary-sidebar
+dsogaming.com###text-16 > div.textwidget
+dsogaming.com###text-26 > div.textwidget
 edziecko.pl##.art_embed
 ekino-tv.pl##.commentsBlock
 ekino-tv.pl##.movieActors
@@ -90,7 +94,6 @@ gazeta.pl##.player-now
 gazeta.pl##.salesModule
 gazeta.pl,edziecko.pl##.hp-notification-bottom--show
 gazeta.pl,sport.pl##.article-footer-thank-you
-gog-games.to##.text-center:has(.notice)
 guru3d.com##.alert-warning
 hejto.pl##.suppi
 hejto.pl##.userbar
@@ -305,6 +308,8 @@ tomshardware.com###article-body > p:nth-child(11)
 tomshardware.com###hammerbot
 tracktrace.dpd.com.pl###banner-central-footer-image
 trendyporn.com##div[style="height:280px; width:auto"]
+trueamateurporn.org##.item-ad2
+trueamateurporn.org##.sponsor
 tuwroclaw.com##.section__box:has(img[alt*="Google News"])
 tvn24.pl##yen-share-buttons
 tvp.info##.article__social
@@ -393,4 +398,5 @@ zaluknij.cc###item-info > div.col-sm-12 > div:nth-child(9)
 zaluknij.cc##.alert
 zus.pl##.commercial-medium
 ||2win.pl^$all
+||definebabe.com/sum.js
 ||wp.pl^$all,domain=wirtualnemedia.pl
