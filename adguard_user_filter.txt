@@ -1,6 +1,6 @@
+@@||fortnite.com^$important,document
 @@||epicgames.com^$important,document
 ! Annoyances
-9to5google.com##.google-preferred-source-badge
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
 android.com.pl##a[href*="track.performers.tech"]
@@ -33,12 +33,10 @@ businessinsider.com.pl###specprawnik-widget
 businessinsider.com.pl##.follow-us
 businessinsider.com.pl##.list-title_sponsor
 ckm.pl###desktop-video-exchngr-slot
-crazyshit.com##div.page.siteshift.front-page:nth-child(2) > div.wrap > div:last-child
 dappcdn.com##.ad-alt__w
 dappcdn.com##aside.sm.sn--sad
 definebabe.com##.right-sidebar-widget
 developer.samsung.com##.newsletter-sub-panel
-dlahandlu.pl##.google-box
 dlahandlu.pl##.p-top-right
 dlahandlu.pl##taboola-widget
 doladowania.t-mobile.pl##.banners-slider
@@ -49,23 +47,17 @@ doz.pl###js-swiper-teaser
 doz.pl###productOfTheDayBanner
 doz.pl##.salvitis2025-promobar__bar
 doz.pl##div[class*="kodabots"]
-drive.google.com##.XzbSje
 dsogaming.com###primary-sidebar
 dsogaming.com###text-16 > div.textwidget
 dsogaming.com###text-26 > div.textwidget
 edziecko.pl##.art_embed
-ekino-tv.pl##.commentsBlock
-ekino-tv.pl##.movieActors
-ekino-tv.pl##a[href="/movie/add"]
-ekino-tv.pl##a[href="/premium/"]
-ekino-tv.pl##li:has(a[href="#premium"])
+ekino.ws##.commentsBlock
+ekino.ws##.movieActors
+ekino.ws##a[href="/movie/add"]
+ekino.ws##a[href="/premium/"]
+ekino.ws##li:has(a[href="#premium"])
 errrotica.com##.banners
 erste.pl##.advertisingBar
-eurosport.tvn24.pl##.bg-navigation-previous-next-nav-surface-fill-01
-eurosport.tvn24.pl##[data-testid="marketing-banner"]
-eurosport.tvn24.pl##[data-testid="molecule-app-download-banner-article"]
-eurosport.tvn24.pl##[data-testid="stars-rating"]
-eurosport.tvn24.pl##div[aria-label="Share"]
 ewarszawa.pl##.bannerBox
 ewarszawa.pl##.mainBoxes__box
 ewarszawa.pl##.newsletter
@@ -86,7 +78,6 @@ filman.cc##a[class*="quiz"]
 filman.cc##center > a[href*="cancerfighters"]
 filmpolski.pl##.wazny_banner
 fucker.com##.channel-promo
-fxmag.pl##[class^="GoogleNews"]
 fxmag.pl##[class^="Reactions_container"]
 gazeta.pl###LinkArea\:NavIco > div.disappearingTooltip:last-child
 gazeta.pl##.art_embed
@@ -123,12 +114,13 @@ javhdporn.net##a[rel*="sponsored"]
 katestube.com##.heading
 katestube.com##.player-sidebar
 klubjagiellonski.pl##.wp-image-76611
-koleje-wielkopolskie.com.pl###installFirefox
-koleje-wielkopolskie.com.pl#@#footer a[href*="facebook.com/"]
+komputronik.pl###th-widget
+komputronik.pl###th-bottom-panel
 krs-pobierz.pl##.banner-sprawdzaj
 ktomalek.pl##.mp-products
 kwestiasmaku.com###block-application-ks-related-content
 kwestiasmaku.com##.pas_dolny
+lovekrakow.pl##.layout-top-banner, .layout-top-banner--sticky
 leakedmodels.com##.js-notice
 leakedmodels.com##.promoz
 leakedzone.com###header > a
@@ -212,6 +204,7 @@ picazor.com##[style^="height:120px;min-height:120px"]
 picazor.com##div[class="flex flex-wrap gap-2 w-full"]:has(a)
 pictoa.com###menu-10
 pictoa.com###menu-2
+picazor.com##div.fixed.bottom-4
 pictoa.com###tab-footer
 pixelnerd.pl###article-reactions-section
 pixelnerd.pl##.extra-link
@@ -235,7 +228,6 @@ pornoxo.com##.js-toggle-content-wrapper:has(a[href*="cam"])
 pornoxo.com##.side-content-block
 pornoxo.com##.wgt-container
 pornpics.com##a[href*="pornpics.com/goto/"]
-portalsamorzadowy.pl##.google-box
 portalsamorzadowy.pl##.partners
 portalsamorzadowy.pl##[style="min-height: 310px;"]
 portalwrc.pl###mod-custom172
@@ -250,12 +242,10 @@ poznajwagrowiec.eu##.repeat-advertisement
 poznajwagrowiec.eu##div.spice_share_wrapper
 pureinfotech.com##.inpost-newsletter
 pureinfotech.com##.kofi-box
-purepc.pl##.googlenews
 pxxbay.com##.custom-html-widget
 pxxbay.com##.gridmax-grid-ads-widget
 radiozet.pl##.akcje-specjalne
 radiozet.pl##.content-part__reaction
-radiozet.pl##.google-news-link
 radiozet.pl##.item-type--news:has(.sponsor-text-label)
 radiozet.pl##.item-type--news:has(a[href*="Loteria"])
 radiozet.pl##.radiozet-header__nav__item:has(span[data-link*="loteria"])
@@ -273,7 +263,6 @@ rynek-kolejowy.pl##.najnowszyNumerRK
 rynek-kolejowy.pl##.partnerNaglowka
 rynek-kolejowy.pl##.partnership
 rynekzdrowia.pl##.e3
-rynekzdrowia.pl##.google-box
 scrolller.com###root > div.app--desktop > div.popup
 senzuri.tube###app > a.top-bar
 sexplex.com##.ads
@@ -287,10 +276,6 @@ sport.pl##.art_embed:has(.onnOnDemand)
 sport.pl##.hp-notification-bottom
 sport.pl##.tile--player
 sport.pl##div[data-bd-viewability-id="pianoContentNewsletterId"]
-sport.tvp.pl#@#.icon-facebook
-sport.tvp.pl#@#.icon-instagram
-sport.tvp.pl#@#.icon-twitter
-sport.tvp.pl#@#.icon-youtube
 sprawdz.dhl.com.pl##.banner
 sprawdz.dhl.com.pl##.secondBanner
 station-drivers.com###mod-custom429 > p > a:first-child > img
@@ -321,8 +306,6 @@ tracktrace.dpd.com.pl###banner-central-footer-image
 trendyporn.com##div[style="height:280px; width:auto"]
 trueamateurporn.org##.item-ad2
 trueamateurporn.org##.sponsor
-tuwroclaw.com##.section__box:has(img[alt*="Google News"])
-tvn24.pl##yen-share-buttons
 tvp.info##.article__social
 tvp.info##.footer__app-banner
 tvp.info##.footer__social-media
@@ -335,10 +318,8 @@ tvp.info##.nav__social
 tweaktown.com##.gnf
 uflix.cc###bebfaddededbcfea
 videocardz.com###vc-maincontainer-disqus
-videocardz.com##.google-preferred-source-button
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
-windowscentral.com##a[href=*"google.com/preferences/source"]
 windowslatest.com##.support-buttons-container
 wirtualnemedia.pl##.container:has(> a[href="/newsletter"])
 wirtualnemedia.pl##.embed-wpplayer
