@@ -1,7 +1,7 @@
 @@||fortnite.com^$important,document
 @@||epicgames.com^$important,document
 ! VOE 30-07-2026
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=lukesitturn.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jessicachoosemake.com
 jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "$", "/\.fadeIn|\.show\(.?\)/")
 jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "EventTarget.prototype.addEventListener", "/document\['body'\]|\^https\?:|\['location'\]/")
 jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "document.createElement", "_blank")
@@ -11,8 +11,8 @@ jessicachoosemake.com%#//scriptlet('google-ima3')
 jessicachoosemake.com%#//scriptlet('prevent-addEventListener', 'contextmenu')
 jessicachoosemake.com%#//scriptlet('remove-node-text', 'script', 'BetterJsPop')
 jessicachoosemake.com%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=lukesitturn.com
-$popup,domain=lukesitturn.com,badfilter
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=jessicachoosemake.com
+$popup,domain=jessicachoosemake.com,badfilter
 ! Annoyances
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
