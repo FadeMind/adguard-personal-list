@@ -1,5 +1,18 @@
 @@||fortnite.com^$important,document
 @@||epicgames.com^$important,document
+! VOE 30-07-2026
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=lukesitturn.com
+jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "$", "/\.fadeIn|\.show\(.?\)/")
+jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "EventTarget.prototype.addEventListener", "/document\['body'\]|\^https\?:|\['location'\]/")
+jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "document.createElement", "_blank")
+jessicachoosemake.com%#//scriptlet("abort-current-inline-script", "globalThis", "break;case")
+jessicachoosemake.com%#//scriptlet("prevent-addEventListener", "click", "VODMonetisation")
+jessicachoosemake.com%#//scriptlet('google-ima3')
+jessicachoosemake.com%#//scriptlet('prevent-addEventListener', 'contextmenu')
+jessicachoosemake.com%#//scriptlet('remove-node-text', 'script', 'BetterJsPop')
+jessicachoosemake.com%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=lukesitturn.com
+$popup,domain=lukesitturn.com,badfilter
 ! Annoyances
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
@@ -51,11 +64,6 @@ dsogaming.com###primary-sidebar
 dsogaming.com###text-16 > div.textwidget
 dsogaming.com###text-26 > div.textwidget
 edziecko.pl##.art_embed
-ekino.ws##.commentsBlock
-ekino.ws##.movieActors
-ekino.ws##a[href="/movie/add"]
-ekino.ws##a[href="/premium/"]
-ekino.ws##li:has(a[href="#premium"])
 errrotica.com##.banners
 erste.pl##.advertisingBar
 ewarszawa.pl##.bannerBox
@@ -96,6 +104,7 @@ inpost.pl##.newsletter--form
 interia.pl###gazetki
 interia.pl###gryonline
 interia.pl##.emotion-my-reaction
+interia.pl##.ids-preferred-source-button:has(span > a[target="_blank"])
 interia.pl##.ids-video-player
 interia.pl##.oferty
 interia.pl##.section-rekom
@@ -114,13 +123,12 @@ javhdporn.net##a[rel*="sponsored"]
 katestube.com##.heading
 katestube.com##.player-sidebar
 klubjagiellonski.pl##.wp-image-76611
-komputronik.pl###th-widget
 komputronik.pl###th-bottom-panel
+komputronik.pl###th-widget
 krs-pobierz.pl##.banner-sprawdzaj
 ktomalek.pl##.mp-products
 kwestiasmaku.com###block-application-ks-related-content
 kwestiasmaku.com##.pas_dolny
-lovekrakow.pl##.layout-top-banner, .layout-top-banner--sticky
 leakedmodels.com##.js-notice
 leakedmodels.com##.promoz
 leakedzone.com###header > a
@@ -129,6 +137,7 @@ linuxcompatible.org##h4.ct-block-header.ct-block-9:first-child
 lookmovie2.to###floating-ads-internal
 lookmovie2.to##.chat-link
 lookmovie2.to##.sm\:tw-py-6
+lovekrakow.pl##.layout-top-banner, .layout-top-banner--sticky
 majorgeeks.com###content > div.geekywraplight:last-child > div:nth-child(3) > div:nth-child(9)
 majorgeeks.com###menu1 > div.altcontent:has([id*="ad"])
 majorgeeks.com###nointelliTXT > table > tbody > tr > td:first-child > div.geekycolumn > b:last-child
@@ -155,18 +164,11 @@ naszemiasto.pl##.componentsArticleQuiz
 naszemiasto.pl##.componentsPromotionsVideo
 naszemiasto.pl##.componentsPromotionsVideo__videoWrapper
 naszemiasto.pl##.componentsRecommendationsSingleArticle
-natemat.pl###article-body > div.art > div > div.c-fsuvhh
-natemat.pl###article-body > div.art > div > div.c-gFRWOk
-natemat.pl###article-body > div.art > div > div.c-gHsnJz
-natemat.pl###block--a-mini-site-7--1 > div.c-iruomZ
-natemat.pl##.c-HKIId
-natemat.pl##.c-hcNlLz
-natemat.pl##.c-hybVhV
-natemat.pl##div.c-hdEcPv.c-bZCKhA
 neowin.net###codewidget-10
+neowin.net##.article-share
 newsweek.pl##.pw-autopromo-slot
-niezalezna.pl##.donation-card
 next.gazeta.pl##.conclusion__wrapper
+niezalezna.pl##.donation-card
 nlad.pl##.bottom-share
 nlad.pl##.donate-koniec-artykulu
 nlad.pl##.hero-patronite
@@ -180,8 +182,14 @@ oko.press###banner-after-text
 oko.press##div.aspect-mobile-banner.md\:aspect-banner.relative 
 oko.press##div.column.print\:hidden
 onet.pl###pianoInfoBottom > div.tp-container-inner
+onet.pl##.ods-a-bullet__text
 onet.pl##.ods-c-follow-us
+onet.pl##.ods-m-google-article
 onet.pl##.ods-o-authorship-bottom__action-bar
+onet.pl##.ods-o-frame-in-text
+onet.pl##.ods-o-google-buttons-bottom
+onet.pl##.ods-o-inline-tts-player__content
+onet.pl##.ods-o-intext-card__wrapper
 onet.pl##[class*="BottomAdditionalText_containerDesktop"]
 onet.pl##[class*="emotionsContainer"]
 onet.pl##a[id*="onetAudioBanner"]
@@ -201,10 +209,10 @@ perfectgirls.xxx##div.wrapper.pintour > div.head-wrapper.index-head > div.top_sp
 perplexity.ai##.h-bannerHeight
 picazor.com##[style^="height:110px;min-height:110px"]
 picazor.com##[style^="height:120px;min-height:120px"]
+picazor.com##div.fixed.bottom-4
 picazor.com##div[class="flex flex-wrap gap-2 w-full"]:has(a)
 pictoa.com###menu-10
 pictoa.com###menu-2
-picazor.com##div.fixed.bottom-4
 pictoa.com###tab-footer
 pixelnerd.pl###article-reactions-section
 pixelnerd.pl##.extra-link
@@ -321,6 +329,7 @@ videocardz.com###vc-maincontainer-disqus
 watchporn4k.com##.happy-section
 watchporn4k.com##.video-block-happy
 windowslatest.com##.support-buttons-container
+windowslatest.com##.wl-support-box
 wirtualnemedia.pl##.container:has(> a[href="/newsletter"])
 wirtualnemedia.pl##.embed-wpplayer
 wirtualnemedia.pl##.wm-article-header-share
