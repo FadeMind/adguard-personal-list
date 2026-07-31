@@ -199,6 +199,8 @@ ceneo.pl##.ai-assistant-button__teaser
 aptekaolmed.pl###dynamic-topbar
 aptekaolmed.pl###productOfTheDay
 aptekaolmed.pl###refund-diapers-btn
+aptekaolmed.pl###search > div.pills-wrapper
+aptekaolmed.pl##.adshero-parallax
 aptekaolmed.pl##.box-addit-top
 aptekaolmed.pl##.promo-product-cart
 aptekaolmed.pl##.promotion
