@@ -1,6 +1,6 @@
 ! Title: AlleBlock Revised
-! Version: 20260805001
-! Expires: 1 day
+! Version: 1.0.1.1
+! Expires: 12 hours (update frequency)
 ! Description: Blocking annoyances on e-commerce sites
 ! Homepage: https://github.com/FadeMind/adguard-personal-list
 ! Based on: https://github.com/CrusheerPL/AlleBlock
