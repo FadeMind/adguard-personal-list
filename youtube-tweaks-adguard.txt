@@ -1,5 +1,5 @@
 ! Title: YouTube Tweaks
-! Version: 20260819v1
+! Version: 20260819001
 ! Expires: 1 day
 ! Description: Cleanup annoyances on YouTube
 ! Partially based on https://github.com/brave/adblock-lists/blob/master/brave-lists/yt-shorts.txt
