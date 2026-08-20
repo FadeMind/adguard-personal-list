@@ -1,13 +1,13 @@
-! VOE 30-07-2026
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=jessicachoosemake.com
-jessicachoosemake.com#%#//scriptlet("abort-current-inline-script", "$", "/\.fadeIn|\.show\(.?\)/")
-jessicachoosemake.com#%#//scriptlet("abort-current-inline-script", "EventTarget.prototype.addEventListener", "/document\['body'\]|\^https\?:|\['location'\]/")
-jessicachoosemake.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "_blank")
-jessicachoosemake.com#%#//scriptlet("abort-current-inline-script", "globalThis", "break;case")
-jessicachoosemake.com#%#//scriptlet("prevent-addEventListener", "click", "VODMonetisation")
-jessicachoosemake.com#%#//scriptlet('google-ima3')
-jessicachoosemake.com#%#//scriptlet('prevent-addEventListener', 'contextmenu')
-jessicachoosemake.com#%#//scriptlet('remove-node-text', 'script', 'BetterJsPop')
-jessicachoosemake.com#%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
-||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=jessicachoosemake.com
-$popup,domain=jessicachoosemake.com,badfilter
+! VOE 19-08-2026
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=johnbeyondnation.com
+johnbeyondnation.com#%#//scriptlet("abort-current-inline-script", "$", "/\.fadeIn|\.show\(.?\)/")
+johnbeyondnation.com#%#//scriptlet("abort-current-inline-script", "EventTarget.prototype.addEventListener", "/document\['body'\]|\^https\?:|\['location'\]/")
+johnbeyondnation.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "_blank")
+johnbeyondnation.com#%#//scriptlet("abort-current-inline-script", "globalThis", "break;case")
+johnbeyondnation.com#%#//scriptlet("prevent-addEventListener", "click", "VODMonetisation")
+johnbeyondnation.com#%#//scriptlet('google-ima3')
+johnbeyondnation.com#%#//scriptlet('prevent-addEventListener', 'contextmenu')
+johnbeyondnation.com#%#//scriptlet('remove-node-text', 'script', 'BetterJsPop')
+johnbeyondnation.com#%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=johnbeyondnation.com
+$popup,domain=johnbeyondnation.com,badfilter
