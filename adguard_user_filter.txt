@@ -316,7 +316,6 @@ wirtualnemedia.pl##.wm-newsletter
 wirtualnemedia.pl##.wp-content-part-video
 wirtualnemedia.pl##.wp-video-title-link
 wnp.pl##.header-partners
-www.redgifs.com#%#//scriptlet('remove-attr', 'href', '.videoLink')
 wykop.pl##.doodle
 wykop.pl##.lisek-app
 wykop.pl##.newsletter
