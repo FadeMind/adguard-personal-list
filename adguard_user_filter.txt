@@ -1,11 +1,3 @@
-! Google News
-pl##a[href*="google.com/preferences/source"]
-pl##a[href*="news.google.com/publications"]
-pl##a[href*="profile.google.com/cp"]
-pl##.art-bar-googlenews
-pl##.ids-preferred-source-button
-pl##a.preferredSourceButtonAdd
-pl##a[data-analytics-id="preferred-sources-button"]
 ! META
 ||facebook.net^$domain=~www.facebook.com|~m.facebook.com
 ||facebook.com^$domain=~www.facebook.com|~m.facebook.com
@@ -14,6 +6,8 @@ pl##a[data-analytics-id="preferred-sources-button"]
 ! X
 ||x.com^$domain=~x.com|~xcancel.com
 ||twitter.com^$domain=~x.com|~xcancel.com
+! REDGIFS x REDDIT 
+www.redgifs.com#%#//scriptlet('remove-attr', 'href', '.videoLink') 
 ! ANNOYANCES
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
