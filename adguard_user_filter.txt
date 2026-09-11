@@ -1,13 +1,5 @@
-! META
-||facebook.net^$domain=~www.facebook.com|~m.facebook.com
-||facebook.com^$domain=~www.facebook.com|~m.facebook.com
-||fbcdn.net^$domain=~www.facebook.com|~m.facebook.com
-||instagram.com^$all
-! X
-||x.com^$domain=~x.com|~xcancel.com
-||twitter.com^$domain=~x.com|~xcancel.com
 ! REDGIFS x REDDIT 
-www.redgifs.com#%#//scriptlet('remove-attr', 'href', '.videoLink') 
+www.redgifs.com#%#//scriptlet('remove-attr', 'href', '.videoLink')
 ! ANNOYANCES
 analcave.com##.header-widget-container
 analcave.com##.page-header-wrapper
@@ -310,7 +302,6 @@ wirtualnemedia.pl##.wm-newsletter
 wirtualnemedia.pl##.wp-content-part-video
 wirtualnemedia.pl##.wp-video-title-link
 wnp.pl##.header-partners
-www.redgifs.com#%#//scriptlet('remove-attr', 'href', '.videoLink')
 wykop.pl##.doodle
 wykop.pl##.lisek-app
 wykop.pl##.newsletter

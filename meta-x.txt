@@ -1,0 +1,8 @@
+! META
+||facebook.net^$domain=~www.facebook.com|~m.facebook.com
+||facebook.com^$domain=~www.facebook.com|~m.facebook.com
+||fbcdn.net^$domain=~www.facebook.com|~m.facebook.com
+||instagram.com^$all
+! X
+||x.com^$domain=~x.com|~xcancel.com
+||twitter.com^$domain=~x.com|~xcancel.com
