@@ -2,7 +2,9 @@
 !.gitignore
 !.gitattributes
 !adguard_user_filter.txt
-!alleblock-revised-adguard.txt
+!alleblock-revised-archive-adguard.txt
+!alleblock-revised-current-adguard.txt
+!google_news_annoyances.txt
 !LICENSE.txt
 !README.md
 !voe.txt

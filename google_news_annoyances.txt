@@ -1,0 +1,8 @@
+﻿! Google News
+pl##a[href*="google.com/preferences/source"]
+pl##a[href*="news.google.com/publications"]
+pl##a[href*="profile.google.com/cp"]
+pl##.art-bar-googlenews
+pl##.ids-preferred-source-button
+pl##a.preferredSourceButtonAdd
+pl##a[data-analytics-id="preferred-sources-button"]
