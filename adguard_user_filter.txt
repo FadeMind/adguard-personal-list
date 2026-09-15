@@ -1,3 +1,5 @@
+! META Messenger
+@@||www.messenger.com^$important,document
 ! REDGIFS x REDDIT 
 www.redgifs.com#%#//scriptlet('remove-attr', 'href', '.videoLink')
 ! ANNOYANCES
@@ -32,6 +34,7 @@ browserleaks.com##body:style(background: none !important; background-color: tran
 businessinsider.com.pl###specprawnik-widget
 businessinsider.com.pl##.follow-us
 businessinsider.com.pl##.list-title_sponsor
+chromeenterprise.google###promo-section
 ckm.pl###desktop-video-exchngr-slot
 dappcdn.com##.ad-alt__w
 dappcdn.com##aside.sm.sn--sad
@@ -72,6 +75,8 @@ filman.cc##.quiz-button-neon
 filman.cc##a[class*="quiz"]
 filman.cc##center > a[href*="cancerfighters"]
 filmpolski.pl##.wazny_banner
+forsal.pl##.min-h-\[var\(--adslot-mobile-container-height\)\].lg\:min-h-\[var\(--adslot-desktop-container-height\)\].justify-center
+forsal.pl##.aspect-video
 fucker.com##.channel-promo
 fxmag.pl##[class^="Reactions_container"]
 gazeta.pl###LinkArea\:NavIco > div.disappearingTooltip:last-child
