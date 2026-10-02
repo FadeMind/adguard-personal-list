@@ -1,3 +1,12 @@
+! Google News
+##.art-bar-googlenews
+##.gsource
+##.ids-preferred-source-button
+##a.preferredSourceButtonAdd
+##a[data-analytics-id="preferred-sources-button"]
+##a[href*="google.com/preferences/source"]
+##a[href*="news.google.com/publications"]
+##a[href*="profile.google.com/cp"]
 ! META Messenger
 @@||www.messenger.com^$important,document
 ! REDGIFS x REDDIT 
@@ -54,6 +63,9 @@ dsogaming.com###primary-sidebar
 dsogaming.com###text-16 > div.textwidget
 dsogaming.com###text-26 > div.textwidget
 edziecko.pl##.art_embed
+eroticbeauties.net###related-onlyfans-top-profiles
+eroticbeauties.net##.custom-cams-list-item
+eroticbeauties.net##.top-onlyfans
 errrotica.com##.banners
 erste.pl##.advertisingBar
 ewarszawa.pl##.bannerBox
@@ -75,8 +87,8 @@ filman.cc##.quiz-button-neon
 filman.cc##a[class*="quiz"]
 filman.cc##center > a[href*="cancerfighters"]
 filmpolski.pl##.wazny_banner
-forsal.pl##.min-h-\[var\(--adslot-mobile-container-height\)\].lg\:min-h-\[var\(--adslot-desktop-container-height\)\].justify-center
 forsal.pl##.aspect-video
+forsal.pl##.min-h-\[var\(--adslot-mobile-container-height\)\].lg\:min-h-\[var\(--adslot-desktop-container-height\)\].justify-center
 fucker.com##.channel-promo
 fxmag.pl##[class^="Reactions_container"]
 gazeta.pl###LinkArea\:NavIco > div.disappearingTooltip:last-child
@@ -105,6 +117,7 @@ javgg.net###post-999999
 javgg.net##.home_iframead
 javhdporn.net##a[href*="javhdporn.live"]
 javhdporn.net##a[rel*="sponsored"]
+javhdporn.net##article[class~="thumb-block-native-ad"]
 katestube.com##.heading
 katestube.com##.player-sidebar
 klubjagiellonski.pl##.wp-image-76611
@@ -165,6 +178,10 @@ o-lekach.pl##.rekl
 oko.press###banner-after-text
 oko.press##div.aspect-mobile-banner.md\:aspect-banner.relative 
 oko.press##div.column.print\:hidden
+onet.pl###pianoright1:has(a[rel~="sponsored"])
+onet.pl##.ods-m-google-article
+onet.pl##.ods-o-frame-in-text
+onet.pl##a[rel~="sponsored"]
 onlineradiobox.com##.playmarket
 onlineradiobox.com##.saveUA
 onlineradiobox.com##[role="alertdialog"]
@@ -174,6 +191,7 @@ onlineradiobox.com##ul.projects-links
 pandamovies.org,speedporn.net##.adbn-wrap
 pandamovies.org,speedporn.net##.nonadbn-wrap
 pb.pl##.tp-container-inner
+pcformat.pl##.pcf-google-source-cta
 perfectgirls.xxx##div.wrapper.pintour > div.head-wrapper.index-head > div.top_spot.desk
 perplexity.ai##.h-bannerHeight
 picazor.com##[style^="height:110px;min-height:110px"]
